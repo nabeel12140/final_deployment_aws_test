@@ -1,0 +1,4237 @@
+[
+    {
+        "id": "Oslo City 2",
+        "latitude": 59.91180733,
+        "longitude": 10.75403273,
+        "name": "SP-Oslo City 2",
+        "city": "Oslo City 2"
+    },
+    {
+        "id": "Oslo City 3",
+        "latitude": 59.852768,
+        "longitude": 10.7848062,
+        "name": "SP-Oslo City 3",
+        "city": "Oslo City 3"
+    },
+    {
+        "id": "Bekkestua",
+        "latitude": 59.9170524,
+        "longitude": 10.5890726,
+        "name": "SP-Bekkestua",
+        "city": "Bekkestua"
+    },
+    {
+        "id": "Stabekk",
+        "latitude": 59.9083529,
+        "longitude": 10.6070793,
+        "name": "SP-Stabekk",
+        "city": "Stabekk"
+    },
+    {
+        "id": "Oslo City 1",
+        "latitude": 59.9342325,
+        "longitude": 10.8509659,
+        "name": "SP-Oslo City 1",
+        "city": "Oslo City 1"
+    },
+    {
+        "id": "Fornebu",
+        "latitude": 59.8988422,
+        "longitude": 10.6210358,
+        "name": "SP-Fornebu",
+        "city": "Fornebu"
+    },
+    {
+        "id": "Stavanger",
+        "latitude": 58.94867016,
+        "longitude": 5.74144873,
+        "name": "SP-Stavanger",
+        "city": "Stavanger"
+    },
+    {
+        "id": "Rykkinn",
+        "latitude": 59.923941,
+        "longitude": 10.4862681,
+        "name": "SP-Rykkinn",
+        "city": "Rykkinn"
+    },
+    {
+        "id": "Molde",
+        "latitude": 62.7546144,
+        "longitude": 7.2811407,
+        "name": "SP-Molde",
+        "city": "Molde"
+    },
+    {
+        "id": "Fagerstrand",
+        "latitude": 59.7458798,
+        "longitude": 10.6087914,
+        "name": "SP-Fagerstrand",
+        "city": "Fagerstrand"
+    },
+    {
+        "id": "Borgenhaugen",
+        "latitude": 59.2691707,
+        "longitude": 11.1592995,
+        "name": "SP-Borgenhaugen",
+        "city": "Borgenhaugen"
+    },
+    {
+        "id": "Fredrikstad",
+        "latitude": 59.2087856,
+        "longitude": 10.9518073,
+        "name": "SP-Fredrikstad",
+        "city": "Fredrikstad"
+    },
+    {
+        "id": "Hundv\u00e5g",
+        "latitude": 58.9938309,
+        "longitude": 5.7281442,
+        "name": "SP-Hundv\u00e5g",
+        "city": "Hundv\u00e5g"
+    },
+    {
+        "id": "Sandnes",
+        "latitude": 58.8818064,
+        "longitude": 5.7258067,
+        "name": "SP-Sandnes",
+        "city": "Sandnes"
+    },
+    {
+        "id": "Sarpsborg",
+        "latitude": 59.3020395,
+        "longitude": 11.109552,
+        "name": "SP-Sarpsborg",
+        "city": "Sarpsborg"
+    },
+    {
+        "id": "Borgen",
+        "latitude": 59.8194867,
+        "longitude": 10.4289067,
+        "name": "SP-Borgen",
+        "city": "Borgen"
+    },
+    {
+        "id": "Drammen",
+        "latitude": 59.74134493,
+        "longitude": 10.22424708,
+        "name": "SP-Drammen",
+        "city": "Drammen"
+    },
+    {
+        "id": "Lillestr\u00f8m",
+        "latitude": 59.9564054,
+        "longitude": 11.0527853,
+        "name": "SP-Lillestr\u00f8m",
+        "city": "Lillestr\u00f8m"
+    },
+    {
+        "id": "Trondheim",
+        "latitude": 63.41280505,
+        "longitude": 10.43116475,
+        "name": "SP-Trondheim",
+        "city": "Trondheim"
+    },
+    {
+        "id": "Hafrsfjord",
+        "latitude": 58.9662205,
+        "longitude": 5.6108611,
+        "name": "SP-Hafrsfjord",
+        "city": "Hafrsfjord"
+    },
+    {
+        "id": "Haslum",
+        "latitude": 59.9122633,
+        "longitude": 10.546415,
+        "name": "SP-Haslum",
+        "city": "Haslum"
+    },
+    {
+        "id": "Heimdal",
+        "latitude": 63.353445,
+        "longitude": 10.35659781,
+        "name": "SP-Heimdal",
+        "city": "Heimdal"
+    },
+    {
+        "id": "Hokksund",
+        "latitude": 59.760525,
+        "longitude": 9.90192,
+        "name": "SP-Hokksund",
+        "city": "Hokksund"
+    },
+    {
+        "id": "Skedsmokorset",
+        "latitude": 60.00021285,
+        "longitude": 11.04027709,
+        "name": "SP-Skedsmokorset",
+        "city": "Skedsmokorset"
+    },
+    {
+        "id": "Gj\u00f8vik",
+        "latitude": 60.7754397,
+        "longitude": 10.6774997,
+        "name": "SP-Gj\u00f8vik",
+        "city": "Gj\u00f8vik"
+    },
+    {
+        "id": "Hamar",
+        "latitude": 60.8014952,
+        "longitude": 11.0762777,
+        "name": "SP-Hamar",
+        "city": "Hamar"
+    },
+    {
+        "id": "Lillehammer",
+        "latitude": 61.1298207,
+        "longitude": 10.44827042,
+        "name": "SP-Lillehammer",
+        "city": "Lillehammer"
+    },
+    {
+        "id": "Ridabu",
+        "latitude": 60.7883332,
+        "longitude": 11.1495046,
+        "name": "SP-Ridabu",
+        "city": "Ridabu"
+    },
+    {
+        "id": "Gre\u00e5ker",
+        "latitude": 59.2704487,
+        "longitude": 11.0654626,
+        "name": "SP-Gre\u00e5ker",
+        "city": "Gre\u00e5ker"
+    },
+    {
+        "id": "Asker",
+        "latitude": 59.8350467,
+        "longitude": 10.4431283,
+        "name": "SP-Asker",
+        "city": "Asker"
+    },
+    {
+        "id": "Halden",
+        "latitude": 59.131453,
+        "longitude": 11.3604082,
+        "name": "SP-Halden",
+        "city": "Halden"
+    },
+    {
+        "id": "L\u00f8renskog",
+        "latitude": 59.921995,
+        "longitude": 10.9475283,
+        "name": "SP-L\u00f8renskog",
+        "city": "L\u00f8renskog"
+    },
+    {
+        "id": "Rolvs\u00f8y",
+        "latitude": 59.2590832,
+        "longitude": 11.0001223,
+        "name": "SP-Rolvs\u00f8y",
+        "city": "Rolvs\u00f8y"
+    },
+    {
+        "id": "Sandvika",
+        "latitude": 59.89345229,
+        "longitude": 10.51390121,
+        "name": "SP-Sandvika",
+        "city": "Sandvika"
+    },
+    {
+        "id": "Sjetnemarka",
+        "latitude": 63.368916,
+        "longitude": 10.3953298,
+        "name": "SP-Sjetnemarka",
+        "city": "Sjetnemarka"
+    },
+    {
+        "id": "Eiksmarka",
+        "latitude": 59.94302,
+        "longitude": 10.6268817,
+        "name": "SP-Eiksmarka",
+        "city": "Eiksmarka"
+    },
+    {
+        "id": "Flat\u00e5sen",
+        "latitude": 63.3740153,
+        "longitude": 10.3459336,
+        "name": "SP-Flat\u00e5sen",
+        "city": "Flat\u00e5sen"
+    },
+    {
+        "id": "Gjettum",
+        "latitude": 59.9085439,
+        "longitude": 10.5351409,
+        "name": "SP-Gjettum",
+        "city": "Gjettum"
+    },
+    {
+        "id": "Billingstad",
+        "latitude": 59.86868,
+        "longitude": 10.4805583,
+        "name": "SP-Billingstad",
+        "city": "Billingstad"
+    },
+    {
+        "id": "Gamle fredrikstad",
+        "latitude": 59.2067215,
+        "longitude": 10.9622128,
+        "name": "SP-Gamle fredrikstad",
+        "city": "Gamle fredrikstad"
+    },
+    {
+        "id": "Moss",
+        "latitude": 59.4319196,
+        "longitude": 10.6578625,
+        "name": "SP-Moss",
+        "city": "Moss"
+    },
+    {
+        "id": "Bod\u00f8",
+        "latitude": 67.2763364,
+        "longitude": 14.3825234,
+        "name": "SP-Bod\u00f8",
+        "city": "Bod\u00f8"
+    },
+    {
+        "id": "Fauske",
+        "latitude": 67.2582074,
+        "longitude": 15.3967995,
+        "name": "SP-Fauske",
+        "city": "Fauske"
+    },
+    {
+        "id": "Kristiansand s",
+        "latitude": 58.1472742,
+        "longitude": 7.9954979,
+        "name": "SP-Kristiansand s",
+        "city": "Kristiansand s"
+    },
+    {
+        "id": "Porsgrunn",
+        "latitude": 59.14381761,
+        "longitude": 9.658262,
+        "name": "SP-Porsgrunn",
+        "city": "Porsgrunn"
+    },
+    {
+        "id": "Ski",
+        "latitude": 59.7236133,
+        "longitude": 10.8293667,
+        "name": "SP-Ski",
+        "city": "Ski"
+    },
+    {
+        "id": "Skien",
+        "latitude": 59.1951853,
+        "longitude": 9.5973965,
+        "name": "SP-Skien",
+        "city": "Skien"
+    },
+    {
+        "id": "Horten",
+        "latitude": 59.4156977,
+        "longitude": 10.4856865,
+        "name": "SP-Horten",
+        "city": "Horten"
+    },
+    {
+        "id": "Larvik",
+        "latitude": 59.0543604,
+        "longitude": 10.0288549,
+        "name": "SP-Larvik",
+        "city": "Larvik"
+    },
+    {
+        "id": "Sandefjord",
+        "latitude": 59.1297625,
+        "longitude": 10.2270897,
+        "name": "SP-Sandefjord",
+        "city": "Sandefjord"
+    },
+    {
+        "id": "Tolvsr\u00f8d",
+        "latitude": 59.2723013,
+        "longitude": 10.471997,
+        "name": "SP-Tolvsr\u00f8d",
+        "city": "Tolvsr\u00f8d"
+    },
+    {
+        "id": "\u00c5s",
+        "latitude": 59.666628,
+        "longitude": 10.80134568,
+        "name": "SP-\u00c5s",
+        "city": "\u00c5s"
+    },
+    {
+        "id": "Kleppe",
+        "latitude": 58.77659229,
+        "longitude": 5.62754891,
+        "name": "SP-Kleppe",
+        "city": "Kleppe"
+    },
+    {
+        "id": "N\u00e6rb\u00f8",
+        "latitude": 58.66469276,
+        "longitude": 5.63664578,
+        "name": "SP-N\u00e6rb\u00f8",
+        "city": "N\u00e6rb\u00f8"
+    },
+    {
+        "id": "Langhus",
+        "latitude": 59.758114,
+        "longitude": 10.8464381,
+        "name": "SP-Langhus",
+        "city": "Langhus"
+    },
+    {
+        "id": "Skjetten",
+        "latitude": 59.97166205,
+        "longitude": 11.00267575,
+        "name": "SP-Skjetten",
+        "city": "Skjetten"
+    },
+    {
+        "id": "Gullaug",
+        "latitude": 59.76301,
+        "longitude": 10.2895249,
+        "name": "SP-Gullaug",
+        "city": "Gullaug"
+    },
+    {
+        "id": "Harstad",
+        "latitude": 68.7874044,
+        "longitude": 16.5345192,
+        "name": "SP-Harstad",
+        "city": "Harstad"
+    },
+    {
+        "id": "Mj\u00f8ndalen",
+        "latitude": 59.7521133,
+        "longitude": 10.0035583,
+        "name": "SP-Mj\u00f8ndalen",
+        "city": "Mj\u00f8ndalen"
+    },
+    {
+        "id": "Narvik",
+        "latitude": 68.4351259,
+        "longitude": 17.4102041,
+        "name": "SP-Narvik",
+        "city": "Narvik"
+    },
+    {
+        "id": "Sortland",
+        "latitude": 68.68356077,
+        "longitude": 15.39935134,
+        "name": "SP-Sortland",
+        "city": "Sortland"
+    },
+    {
+        "id": "Vestby",
+        "latitude": 59.604045,
+        "longitude": 10.7433283,
+        "name": "SP-Vestby",
+        "city": "Vestby"
+    },
+    {
+        "id": "Finnstadjordet",
+        "latitude": 59.91449515,
+        "longitude": 10.97376584,
+        "name": "SP-Finnstadjordet",
+        "city": "Finnstadjordet"
+    },
+    {
+        "id": "Fyllingsdalen",
+        "latitude": 60.3404482,
+        "longitude": 5.287352,
+        "name": "SP-Fyllingsdalen",
+        "city": "Fyllingsdalen"
+    },
+    {
+        "id": "Mo i rana",
+        "latitude": 66.3111738,
+        "longitude": 14.1343383,
+        "name": "SP-Mo i rana",
+        "city": "Mo i rana"
+    },
+    {
+        "id": "Mosj\u00f8en",
+        "latitude": 65.839954,
+        "longitude": 13.1900455,
+        "name": "SP-Mosj\u00f8en",
+        "city": "Mosj\u00f8en"
+    },
+    {
+        "id": "Ottestad",
+        "latitude": 60.7758229,
+        "longitude": 11.097943,
+        "name": "SP-Ottestad",
+        "city": "Ottestad"
+    },
+    {
+        "id": "Spongdal",
+        "latitude": 63.35570901,
+        "longitude": 10.16516048,
+        "name": "SP-Spongdal",
+        "city": "Spongdal"
+    },
+    {
+        "id": "Stj\u00f8rdal",
+        "latitude": 63.46670841,
+        "longitude": 10.91660592,
+        "name": "SP-Stj\u00f8rdal",
+        "city": "Stj\u00f8rdal"
+    },
+    {
+        "id": "T\u00f8nsberg",
+        "latitude": 59.29233,
+        "longitude": 10.4742475,
+        "name": "SP-T\u00f8nsberg",
+        "city": "T\u00f8nsberg"
+    },
+    {
+        "id": "Brekstad",
+        "latitude": 63.6880811,
+        "longitude": 9.6655913,
+        "name": "SP-Brekstad",
+        "city": "Brekstad"
+    },
+    {
+        "id": "Bryne",
+        "latitude": 58.7355228,
+        "longitude": 5.6668145,
+        "name": "SP-Bryne",
+        "city": "Bryne"
+    },
+    {
+        "id": "Laksev\u00e5g",
+        "latitude": 60.3842976,
+        "longitude": 5.2731635,
+        "name": "SP-Laksev\u00e5g",
+        "city": "Laksev\u00e5g"
+    },
+    {
+        "id": "N\u00f8tter\u00f8y",
+        "latitude": 59.24432804,
+        "longitude": 10.42480634,
+        "name": "SP-N\u00f8tter\u00f8y",
+        "city": "N\u00f8tter\u00f8y"
+    },
+    {
+        "id": "Sandnessj\u00f8en",
+        "latitude": 66.0219911,
+        "longitude": 12.6350261,
+        "name": "SP-Sandnessj\u00f8en",
+        "city": "Sandnessj\u00f8en"
+    },
+    {
+        "id": "Skodje",
+        "latitude": 62.4920152,
+        "longitude": 6.611984,
+        "name": "SP-Skodje",
+        "city": "Skodje"
+    },
+    {
+        "id": "Stokke",
+        "latitude": 59.2219502,
+        "longitude": 10.3054984,
+        "name": "SP-Stokke",
+        "city": "Stokke"
+    },
+    {
+        "id": "Str\u00f8mmen",
+        "latitude": 59.95191,
+        "longitude": 11.011705,
+        "name": "SP-Str\u00f8mmen",
+        "city": "Str\u00f8mmen"
+    },
+    {
+        "id": "Vestskogen",
+        "latitude": 59.2405255,
+        "longitude": 10.3914297,
+        "name": "SP-Vestskogen",
+        "city": "Vestskogen"
+    },
+    {
+        "id": "\u00c5lesund",
+        "latitude": 62.46670252,
+        "longitude": 6.11473585,
+        "name": "SP-\u00c5lesund",
+        "city": "\u00c5lesund"
+    },
+    {
+        "id": "H\u00f8nefoss",
+        "latitude": 60.1647051,
+        "longitude": 10.2542297,
+        "name": "SP-H\u00f8nefoss",
+        "city": "H\u00f8nefoss"
+    },
+    {
+        "id": "J\u00f8rpeland",
+        "latitude": 59.0263888,
+        "longitude": 6.03576929,
+        "name": "SP-J\u00f8rpeland",
+        "city": "J\u00f8rpeland"
+    },
+    {
+        "id": "Kongsberg",
+        "latitude": 59.67220221,
+        "longitude": 9.64866114,
+        "name": "SP-Kongsberg",
+        "city": "Kongsberg"
+    },
+    {
+        "id": "Kongsvinger",
+        "latitude": 60.1933117,
+        "longitude": 11.9945403,
+        "name": "SP-Kongsvinger",
+        "city": "Kongsvinger"
+    },
+    {
+        "id": "Lier",
+        "latitude": 59.7792072,
+        "longitude": 10.2431239,
+        "name": "SP-Lier",
+        "city": "Lier"
+    },
+    {
+        "id": "Oppeg\u00e5rd",
+        "latitude": 59.7868105,
+        "longitude": 10.8004955,
+        "name": "SP-Oppeg\u00e5rd",
+        "city": "Oppeg\u00e5rd"
+    },
+    {
+        "id": "Steinberg",
+        "latitude": 59.7596667,
+        "longitude": 9.9612733,
+        "name": "SP-Steinberg",
+        "city": "Steinberg"
+    },
+    {
+        "id": "Blystadlia",
+        "latitude": 59.9336483,
+        "longitude": 11.0355533,
+        "name": "SP-Blystadlia",
+        "city": "Blystadlia"
+    },
+    {
+        "id": "Dilling",
+        "latitude": 59.4082755,
+        "longitude": 10.6955757,
+        "name": "SP-Dilling",
+        "city": "Dilling"
+    },
+    {
+        "id": "Gr\u00e5lum",
+        "latitude": 59.2951703,
+        "longitude": 11.0655884,
+        "name": "SP-Gr\u00e5lum",
+        "city": "Gr\u00e5lum"
+    },
+    {
+        "id": "Nesoddtangen",
+        "latitude": 59.856329,
+        "longitude": 10.6603783,
+        "name": "SP-Nesoddtangen",
+        "city": "Nesoddtangen"
+    },
+    {
+        "id": "Notodden",
+        "latitude": 59.5637142,
+        "longitude": 9.2759918,
+        "name": "SP-Notodden",
+        "city": "Notodden"
+    },
+    {
+        "id": "T\u00e5rn\u00e5sen",
+        "latitude": 59.8156317,
+        "longitude": 10.8211983,
+        "name": "SP-T\u00e5rn\u00e5sen",
+        "city": "T\u00e5rn\u00e5sen"
+    },
+    {
+        "id": "Jessheim",
+        "latitude": 60.14689025,
+        "longitude": 11.17090412,
+        "name": "SP-Jessheim",
+        "city": "Jessheim"
+    },
+    {
+        "id": "Rakkestad",
+        "latitude": 59.4160927,
+        "longitude": 11.3517957,
+        "name": "SP-Rakkestad",
+        "city": "Rakkestad"
+    },
+    {
+        "id": "Son",
+        "latitude": 59.4985866,
+        "longitude": 10.6897093,
+        "name": "SP-Son",
+        "city": "Son"
+    },
+    {
+        "id": "Arendal",
+        "latitude": 58.46061725,
+        "longitude": 8.76440756,
+        "name": "SP-Arendal",
+        "city": "Arendal"
+    },
+    {
+        "id": "Loddefjord",
+        "latitude": 60.36650339,
+        "longitude": 5.23251896,
+        "name": "SP-Loddefjord",
+        "city": "Loddefjord"
+    },
+    {
+        "id": "Volda",
+        "latitude": 62.1443751,
+        "longitude": 6.0824456,
+        "name": "SP-Volda",
+        "city": "Volda"
+    },
+    {
+        "id": "Moelv",
+        "latitude": 60.9303102,
+        "longitude": 10.7012973,
+        "name": "SP-Moelv",
+        "city": "Moelv"
+    },
+    {
+        "id": "Saupstad",
+        "latitude": 63.36639911,
+        "longitude": 10.34632804,
+        "name": "SP-Saupstad",
+        "city": "Saupstad"
+    },
+    {
+        "id": "Sofiemyr",
+        "latitude": 59.8031241,
+        "longitude": 10.8221954,
+        "name": "SP-Sofiemyr",
+        "city": "Sofiemyr"
+    },
+    {
+        "id": "S\u00f8rumsand",
+        "latitude": 59.9860033,
+        "longitude": 11.2411417,
+        "name": "SP-S\u00f8rumsand",
+        "city": "S\u00f8rumsand"
+    },
+    {
+        "id": "Arnatveit",
+        "latitude": 60.4086405,
+        "longitude": 5.4788206,
+        "name": "SP-Arnatveit",
+        "city": "Arnatveit"
+    },
+    {
+        "id": "Bergen",
+        "latitude": 60.3711024,
+        "longitude": 5.3408151,
+        "name": "SP-Bergen",
+        "city": "Bergen"
+    },
+    {
+        "id": "Kr\u00e5ker\u00f8y",
+        "latitude": 59.1971903,
+        "longitude": 10.9096832,
+        "name": "SP-Kr\u00e5ker\u00f8y",
+        "city": "Kr\u00e5ker\u00f8y"
+    },
+    {
+        "id": "Leknes",
+        "latitude": 68.14822706,
+        "longitude": 13.61346558,
+        "name": "SP-Leknes",
+        "city": "Leknes"
+    },
+    {
+        "id": "Nesttun",
+        "latitude": 60.3112424,
+        "longitude": 5.3812531,
+        "name": "SP-Nesttun",
+        "city": "Nesttun"
+    },
+    {
+        "id": "Olsvik",
+        "latitude": 60.3816029,
+        "longitude": 5.2203672,
+        "name": "SP-Olsvik",
+        "city": "Olsvik"
+    },
+    {
+        "id": "Randaberg",
+        "latitude": 58.9862798,
+        "longitude": 5.6162513,
+        "name": "SP-Randaberg",
+        "city": "Randaberg"
+    },
+    {
+        "id": "R\u00e5dal",
+        "latitude": 60.30132,
+        "longitude": 5.3040162,
+        "name": "SP-R\u00e5dal",
+        "city": "R\u00e5dal"
+    },
+    {
+        "id": "R\u00e5de",
+        "latitude": 59.3475324,
+        "longitude": 10.8667412,
+        "name": "SP-R\u00e5de",
+        "city": "R\u00e5de"
+    },
+    {
+        "id": "Sandsli",
+        "latitude": 60.3066982,
+        "longitude": 5.2918923,
+        "name": "SP-Sandsli",
+        "city": "Sandsli"
+    },
+    {
+        "id": "Slitu",
+        "latitude": 59.5812038,
+        "longitude": 11.2613703,
+        "name": "SP-Slitu",
+        "city": "Slitu"
+    },
+    {
+        "id": "Tananger",
+        "latitude": 58.9529144,
+        "longitude": 5.6031953,
+        "name": "SP-Tananger",
+        "city": "Tananger"
+    },
+    {
+        "id": "Tverlandet",
+        "latitude": 67.299427,
+        "longitude": 14.7389345,
+        "name": "SP-Tverlandet",
+        "city": "Tverlandet"
+    },
+    {
+        "id": "Askim",
+        "latitude": 59.5816151,
+        "longitude": 11.1634478,
+        "name": "SP-Askim",
+        "city": "Askim"
+    },
+    {
+        "id": "B\u00e6rums verk",
+        "latitude": 59.9485867,
+        "longitude": 10.509395,
+        "name": "SP-B\u00e6rums verk",
+        "city": "B\u00e6rums verk"
+    },
+    {
+        "id": "Elverum",
+        "latitude": 60.8827763,
+        "longitude": 11.5407364,
+        "name": "SP-Elverum",
+        "city": "Elverum"
+    },
+    {
+        "id": "Kattem",
+        "latitude": 63.34562552,
+        "longitude": 10.34246628,
+        "name": "SP-Kattem",
+        "city": "Kattem"
+    },
+    {
+        "id": "Mysen",
+        "latitude": 59.5531068,
+        "longitude": 11.3241331,
+        "name": "SP-Mysen",
+        "city": "Mysen"
+    },
+    {
+        "id": "Rygge",
+        "latitude": 59.3781612,
+        "longitude": 10.7469493,
+        "name": "SP-Rygge",
+        "city": "Rygge"
+    },
+    {
+        "id": "Holmestrand",
+        "latitude": 59.4920521,
+        "longitude": 10.312205,
+        "name": "SP-Holmestrand",
+        "city": "Holmestrand"
+    },
+    {
+        "id": "Jakobsli",
+        "latitude": 63.4188894,
+        "longitude": 10.4833052,
+        "name": "SP-Jakobsli",
+        "city": "Jakobsli"
+    },
+    {
+        "id": "Kristiansund n",
+        "latitude": 63.1038852,
+        "longitude": 7.7287481,
+        "name": "SP-Kristiansund n",
+        "city": "Kristiansund n"
+    },
+    {
+        "id": "Levanger",
+        "latitude": 63.7446099,
+        "longitude": 11.2998907,
+        "name": "SP-Levanger",
+        "city": "Levanger"
+    },
+    {
+        "id": "Lysaker",
+        "latitude": 59.9052783,
+        "longitude": 10.6267483,
+        "name": "SP-Lysaker",
+        "city": "Lysaker"
+    },
+    {
+        "id": "R\u00f8rvik",
+        "latitude": 64.8626739,
+        "longitude": 11.2326231,
+        "name": "SP-R\u00f8rvik",
+        "city": "R\u00f8rvik"
+    },
+    {
+        "id": "Tiller",
+        "latitude": 63.3527953,
+        "longitude": 10.3858892,
+        "name": "SP-Tiller",
+        "city": "Tiller"
+    },
+    {
+        "id": "Spydeberg",
+        "latitude": 59.6146378,
+        "longitude": 11.0762193,
+        "name": "SP-Spydeberg",
+        "city": "Spydeberg"
+    },
+    {
+        "id": "Ankenes",
+        "latitude": 68.4193504,
+        "longitude": 17.3871572,
+        "name": "SP-Ankenes",
+        "city": "Ankenes"
+    },
+    {
+        "id": "Dal",
+        "latitude": 60.2490933,
+        "longitude": 11.2035752,
+        "name": "SP-Dal",
+        "city": "Dal"
+    },
+    {
+        "id": "Eidsvoll",
+        "latitude": 60.3308389,
+        "longitude": 11.2395477,
+        "name": "SP-Eidsvoll",
+        "city": "Eidsvoll"
+    },
+    {
+        "id": "Eidsvoll verk",
+        "latitude": 60.2877115,
+        "longitude": 11.1701432,
+        "name": "SP-Eidsvoll verk",
+        "city": "Eidsvoll verk"
+    },
+    {
+        "id": "Frekhaug",
+        "latitude": 60.5094894,
+        "longitude": 5.2393015,
+        "name": "SP-Frekhaug",
+        "city": "Frekhaug"
+    },
+    {
+        "id": "H\u00f8vik",
+        "latitude": 59.9013756,
+        "longitude": 10.5843389,
+        "name": "SP-H\u00f8vik",
+        "city": "H\u00f8vik"
+    },
+    {
+        "id": "Kl\u00f8fta",
+        "latitude": 60.0751228,
+        "longitude": 11.1387999,
+        "name": "SP-Kl\u00f8fta",
+        "city": "Kl\u00f8fta"
+    },
+    {
+        "id": "Br\u00f8nn\u00f8ysund",
+        "latitude": 65.4632608,
+        "longitude": 12.2038248,
+        "name": "SP-Br\u00f8nn\u00f8ysund",
+        "city": "Br\u00f8nn\u00f8ysund"
+    },
+    {
+        "id": "Fjell",
+        "latitude": 60.3272171,
+        "longitude": 5.0200823,
+        "name": "SP-Fjell",
+        "city": "Fjell"
+    },
+    {
+        "id": "Namsos",
+        "latitude": 64.46928691,
+        "longitude": 11.50361828,
+        "name": "SP-Namsos",
+        "city": "Namsos"
+    },
+    {
+        "id": "Svolv\u00e6r",
+        "latitude": 68.2329265,
+        "longitude": 14.5305524,
+        "name": "SP-Svolv\u00e6r",
+        "city": "Svolv\u00e6r"
+    },
+    {
+        "id": "Troms\u00f8",
+        "latitude": 69.6599776,
+        "longitude": 18.9495851,
+        "name": "SP-Troms\u00f8",
+        "city": "Troms\u00f8"
+    },
+    {
+        "id": "Klepp stasjon",
+        "latitude": 58.7849723,
+        "longitude": 5.705822,
+        "name": "SP-Klepp stasjon",
+        "city": "Klepp stasjon"
+    },
+    {
+        "id": "Nittedal",
+        "latitude": 60.0585301,
+        "longitude": 10.8671875,
+        "name": "SP-Nittedal",
+        "city": "Nittedal"
+    },
+    {
+        "id": "Sande i vestfold",
+        "latitude": 59.5849787,
+        "longitude": 10.2055069,
+        "name": "SP-Sande i vestfold",
+        "city": "Sande i vestfold"
+    },
+    {
+        "id": "Sola",
+        "latitude": 58.87746445,
+        "longitude": 5.67003965,
+        "name": "SP-Sola",
+        "city": "Sola"
+    },
+    {
+        "id": "Troll\u00e5sen",
+        "latitude": 59.8177379,
+        "longitude": 10.788248,
+        "name": "SP-Troll\u00e5sen",
+        "city": "Troll\u00e5sen"
+    },
+    {
+        "id": "Fana",
+        "latitude": 60.2654152,
+        "longitude": 5.3518543,
+        "name": "SP-Fana",
+        "city": "Fana"
+    },
+    {
+        "id": "Finnsnes",
+        "latitude": 69.2308777,
+        "longitude": 18.0018017,
+        "name": "SP-Finnsnes",
+        "city": "Finnsnes"
+    },
+    {
+        "id": "Hareid",
+        "latitude": 62.3717398,
+        "longitude": 6.0278626,
+        "name": "SP-Hareid",
+        "city": "Hareid"
+    },
+    {
+        "id": "Harestua",
+        "latitude": 60.2057275,
+        "longitude": 10.7225246,
+        "name": "SP-Harestua",
+        "city": "Harestua"
+    },
+    {
+        "id": "Ranheim",
+        "latitude": 63.4312894,
+        "longitude": 10.4962013,
+        "name": "SP-Ranheim",
+        "city": "Ranheim"
+    },
+    {
+        "id": "Rena",
+        "latitude": 61.1351023,
+        "longitude": 11.369952,
+        "name": "SP-Rena",
+        "city": "Rena"
+    },
+    {
+        "id": "Ulsteinvik",
+        "latitude": 62.3159745,
+        "longitude": 5.8442444,
+        "name": "SP-Ulsteinvik",
+        "city": "Ulsteinvik"
+    },
+    {
+        "id": "\u00d8rsta",
+        "latitude": 62.1968136,
+        "longitude": 6.1277998,
+        "name": "SP-\u00d8rsta",
+        "city": "\u00d8rsta"
+    },
+    {
+        "id": "Aurskog",
+        "latitude": 59.9274948,
+        "longitude": 11.4454223,
+        "name": "SP-Aurskog",
+        "city": "Aurskog"
+    },
+    {
+        "id": "Bj\u00f8rkelangen",
+        "latitude": 59.8838425,
+        "longitude": 11.5706099,
+        "name": "SP-Bj\u00f8rkelangen",
+        "city": "Bj\u00f8rkelangen"
+    },
+    {
+        "id": "Borre",
+        "latitude": 59.3803606,
+        "longitude": 10.4550584,
+        "name": "SP-Borre",
+        "city": "Borre"
+    },
+    {
+        "id": "Dokka",
+        "latitude": 60.834109,
+        "longitude": 10.0739657,
+        "name": "SP-Dokka",
+        "city": "Dokka"
+    },
+    {
+        "id": "Egersund",
+        "latitude": 58.4515926,
+        "longitude": 6.001301,
+        "name": "SP-Egersund",
+        "city": "Egersund"
+    },
+    {
+        "id": "Fjellhamar",
+        "latitude": 59.9387467,
+        "longitude": 10.9665967,
+        "name": "SP-Fjellhamar",
+        "city": "Fjellhamar"
+    },
+    {
+        "id": "Flaktveit",
+        "latitude": 60.4681974,
+        "longitude": 5.3604262,
+        "name": "SP-Flaktveit",
+        "city": "Flaktveit"
+    },
+    {
+        "id": "Flekkefjord",
+        "latitude": 58.3117705,
+        "longitude": 6.67036322,
+        "name": "SP-Flekkefjord",
+        "city": "Flekkefjord"
+    },
+    {
+        "id": "Frogner",
+        "latitude": 60.0246168,
+        "longitude": 11.0694627,
+        "name": "SP-Frogner",
+        "city": "Frogner"
+    },
+    {
+        "id": "Gran",
+        "latitude": 60.3587114,
+        "longitude": 10.5697626,
+        "name": "SP-Gran",
+        "city": "Gran"
+    },
+    {
+        "id": "Hunndalen",
+        "latitude": 60.7872576,
+        "longitude": 10.6659158,
+        "name": "SP-Hunndalen",
+        "city": "Hunndalen"
+    },
+    {
+        "id": "Jaren",
+        "latitude": 60.392373,
+        "longitude": 10.556891,
+        "name": "SP-Jaren",
+        "city": "Jaren"
+    },
+    {
+        "id": "Mandal",
+        "latitude": 58.02725217,
+        "longitude": 7.47539906,
+        "name": "SP-Mandal",
+        "city": "Mandal"
+    },
+    {
+        "id": "Mj\u00f8lker\u00e5en",
+        "latitude": 60.4838352,
+        "longitude": 5.2672923,
+        "name": "SP-Mj\u00f8lker\u00e5en",
+        "city": "Mj\u00f8lker\u00e5en"
+    },
+    {
+        "id": "Raufoss",
+        "latitude": 60.7214432,
+        "longitude": 10.6133943,
+        "name": "SP-Raufoss",
+        "city": "Raufoss"
+    },
+    {
+        "id": "Sem",
+        "latitude": 59.2827836,
+        "longitude": 10.3323554,
+        "name": "SP-Sem",
+        "city": "Sem"
+    },
+    {
+        "id": "Sogndal",
+        "latitude": 61.2291574,
+        "longitude": 7.0873429,
+        "name": "SP-Sogndal",
+        "city": "Sogndal"
+    },
+    {
+        "id": "Stavern",
+        "latitude": 59.000814,
+        "longitude": 10.0344685,
+        "name": "SP-Stavern",
+        "city": "Stavern"
+    },
+    {
+        "id": "Tau",
+        "latitude": 59.0650799,
+        "longitude": 5.9202564,
+        "name": "SP-Tau",
+        "city": "Tau"
+    },
+    {
+        "id": "Tjodalyng",
+        "latitude": 59.0626242,
+        "longitude": 10.151359,
+        "name": "SP-Tjodalyng",
+        "city": "Tjodalyng"
+    },
+    {
+        "id": "Andenes",
+        "latitude": 69.31468252,
+        "longitude": 16.12010461,
+        "name": "SP-Andenes",
+        "city": "Andenes"
+    },
+    {
+        "id": "Bardufoss",
+        "latitude": 69.0459192,
+        "longitude": 18.5127125,
+        "name": "SP-Bardufoss",
+        "city": "Bardufoss"
+    },
+    {
+        "id": "Bosberg",
+        "latitude": 63.4227904,
+        "longitude": 10.14934572,
+        "name": "SP-Bosberg",
+        "city": "Bosberg"
+    },
+    {
+        "id": "Godvik",
+        "latitude": 60.36993679,
+        "longitude": 5.19408199,
+        "name": "SP-Godvik",
+        "city": "Godvik"
+    },
+    {
+        "id": "Klavestadhaugen",
+        "latitude": 59.2486758,
+        "longitude": 11.1836765,
+        "name": "SP-Klavestadhaugen",
+        "city": "Klavestadhaugen"
+    },
+    {
+        "id": "Krokelvdalen",
+        "latitude": 69.68220554,
+        "longitude": 19.0794917,
+        "name": "SP-Krokelvdalen",
+        "city": "Krokelvdalen"
+    },
+    {
+        "id": "Krokstadelva",
+        "latitude": 59.756956,
+        "longitude": 10.005038,
+        "name": "SP-Krokstadelva",
+        "city": "Krokstadelva"
+    },
+    {
+        "id": "Revetal",
+        "latitude": 59.37068681,
+        "longitude": 10.26310053,
+        "name": "SP-Revetal",
+        "city": "Revetal"
+    },
+    {
+        "id": "Stathelle",
+        "latitude": 59.0444333,
+        "longitude": 9.6936349,
+        "name": "SP-Stathelle",
+        "city": "Stathelle"
+    },
+    {
+        "id": "Steinkjer",
+        "latitude": 64.02420448,
+        "longitude": 11.48440826,
+        "name": "SP-Steinkjer",
+        "city": "Steinkjer"
+    },
+    {
+        "id": "Ulset",
+        "latitude": 60.463532,
+        "longitude": 5.2959248,
+        "name": "SP-Ulset",
+        "city": "Ulset"
+    },
+    {
+        "id": "Vear",
+        "latitude": 59.26361808,
+        "longitude": 10.36263164,
+        "name": "SP-Vear",
+        "city": "Vear"
+    },
+    {
+        "id": "Verdal",
+        "latitude": 63.7886119,
+        "longitude": 11.4796937,
+        "name": "SP-Verdal",
+        "city": "Verdal"
+    },
+    {
+        "id": "Vester\u00f8y",
+        "latitude": 59.11022755,
+        "longitude": 10.90944729,
+        "name": "SP-Vester\u00f8y",
+        "city": "Vester\u00f8y"
+    },
+    {
+        "id": "Vikhammer",
+        "latitude": 63.4378125,
+        "longitude": 10.6258368,
+        "name": "SP-Vikhammer",
+        "city": "Vikhammer"
+    },
+    {
+        "id": "Bj\u00f8rnemyr",
+        "latitude": 59.83518888,
+        "longitude": 10.64284836,
+        "name": "SP-Bj\u00f8rnemyr",
+        "city": "Bj\u00f8rnemyr"
+    },
+    {
+        "id": "Blomsterdalen",
+        "latitude": 60.26973,
+        "longitude": 5.2529786,
+        "name": "SP-Blomsterdalen",
+        "city": "Blomsterdalen"
+    },
+    {
+        "id": "Bru",
+        "latitude": 59.0558474,
+        "longitude": 5.6741628,
+        "name": "SP-Bru",
+        "city": "Bru"
+    },
+    {
+        "id": "Buvika",
+        "latitude": 63.3080385,
+        "longitude": 10.1749364,
+        "name": "SP-Buvika",
+        "city": "Buvika"
+    },
+    {
+        "id": "Dr\u00f8bak",
+        "latitude": 59.6845253,
+        "longitude": 10.6610377,
+        "name": "SP-Dr\u00f8bak",
+        "city": "Dr\u00f8bak"
+    },
+    {
+        "id": "Ellings\u00f8y",
+        "latitude": 62.49113649,
+        "longitude": 6.19162209,
+        "name": "SP-Ellings\u00f8y",
+        "city": "Ellings\u00f8y"
+    },
+    {
+        "id": "Fetsund",
+        "latitude": 59.9266824,
+        "longitude": 11.1613882,
+        "name": "SP-Fetsund",
+        "city": "Fetsund"
+    },
+    {
+        "id": "Florv\u00e5g",
+        "latitude": 60.42002298,
+        "longitude": 5.23876943,
+        "name": "SP-Florv\u00e5g",
+        "city": "Florv\u00e5g"
+    },
+    {
+        "id": "Fosnav\u00e5g",
+        "latitude": 62.32558355,
+        "longitude": 5.63838962,
+        "name": "SP-Fosnav\u00e5g",
+        "city": "Fosnav\u00e5g"
+    },
+    {
+        "id": "Hommelvik",
+        "latitude": 63.411436,
+        "longitude": 10.7943451,
+        "name": "SP-Hommelvik",
+        "city": "Hommelvik"
+    },
+    {
+        "id": "Langev\u00e5g",
+        "latitude": 62.44076812,
+        "longitude": 6.19954955,
+        "name": "SP-Langev\u00e5g",
+        "city": "Langev\u00e5g"
+    },
+    {
+        "id": "Melhus",
+        "latitude": 63.2857026,
+        "longitude": 10.276482,
+        "name": "SP-Melhus",
+        "city": "Melhus"
+    },
+    {
+        "id": "Myre",
+        "latitude": 68.915,
+        "longitude": 15.1006,
+        "name": "SP-Myre",
+        "city": "Myre"
+    },
+    {
+        "id": "Orkanger",
+        "latitude": 63.30993729,
+        "longitude": 9.85623636,
+        "name": "SP-Orkanger",
+        "city": "Orkanger"
+    },
+    {
+        "id": "R\u00e5holt",
+        "latitude": 60.2833615,
+        "longitude": 11.1623815,
+        "name": "SP-R\u00e5holt",
+        "city": "R\u00e5holt"
+    },
+    {
+        "id": "Tertnes",
+        "latitude": 60.4556667,
+        "longitude": 5.295834,
+        "name": "SP-Tertnes",
+        "city": "Tertnes"
+    },
+    {
+        "id": "Tromsdalen",
+        "latitude": 69.6296,
+        "longitude": 18.9556,
+        "name": "SP-Tromsdalen",
+        "city": "Tromsdalen"
+    },
+    {
+        "id": "Valder\u00f8ya",
+        "latitude": 62.50685764,
+        "longitude": 6.10224571,
+        "name": "SP-Valder\u00f8ya",
+        "city": "Valder\u00f8ya"
+    },
+    {
+        "id": "Varhaug",
+        "latitude": 58.6183733,
+        "longitude": 5.6458819,
+        "name": "SP-Varhaug",
+        "city": "Varhaug"
+    },
+    {
+        "id": "Vigrestad",
+        "latitude": 58.5705794,
+        "longitude": 5.6876646,
+        "name": "SP-Vigrestad",
+        "city": "Vigrestad"
+    },
+    {
+        "id": "\u00c5ndalsnes",
+        "latitude": 62.56891098,
+        "longitude": 7.68671652,
+        "name": "SP-\u00c5ndalsnes",
+        "city": "\u00c5ndalsnes"
+    },
+    {
+        "id": "Alversund",
+        "latitude": 60.5614304,
+        "longitude": 5.251182,
+        "name": "SP-Alversund",
+        "city": "Alversund"
+    },
+    {
+        "id": "Bj\u00f8rndalstr\u00e6",
+        "latitude": 60.3508537,
+        "longitude": 5.2449135,
+        "name": "SP-Bj\u00f8rndalstr\u00e6",
+        "city": "Bj\u00f8rndalstr\u00e6"
+    },
+    {
+        "id": "Eide",
+        "latitude": 62.91674355,
+        "longitude": 7.4472978,
+        "name": "SP-Eide",
+        "city": "Eide"
+    },
+    {
+        "id": "Elnesv\u00e5gen",
+        "latitude": 62.85477142,
+        "longitude": 7.17285983,
+        "name": "SP-Elnesv\u00e5gen",
+        "city": "Elnesv\u00e5gen"
+    },
+    {
+        "id": "Fiskarstrand",
+        "latitude": 62.4401924,
+        "longitude": 6.27309147,
+        "name": "SP-Fiskarstrand",
+        "city": "Fiskarstrand"
+    },
+    {
+        "id": "Gol",
+        "latitude": 60.7013711,
+        "longitude": 8.9416538,
+        "name": "SP-Gol",
+        "city": "Gol"
+    },
+    {
+        "id": "Inder\u00f8y",
+        "latitude": 63.8738789,
+        "longitude": 11.2900208,
+        "name": "SP-Inder\u00f8y",
+        "city": "Inder\u00f8y"
+    },
+    {
+        "id": "Kleppest\u00f8",
+        "latitude": 60.4303175,
+        "longitude": 5.1887853,
+        "name": "SP-Kleppest\u00f8",
+        "city": "Kleppest\u00f8"
+    },
+    {
+        "id": "Kols\u00e5s",
+        "latitude": 59.9261844,
+        "longitude": 10.4994661,
+        "name": "SP-Kols\u00e5s",
+        "city": "Kols\u00e5s"
+    },
+    {
+        "id": "Lyngdal",
+        "latitude": 58.13413113,
+        "longitude": 7.06961113,
+        "name": "SP-Lyngdal",
+        "city": "Lyngdal"
+    },
+    {
+        "id": "Nesbyen",
+        "latitude": 60.576996,
+        "longitude": 9.1126004,
+        "name": "SP-Nesbyen",
+        "city": "Nesbyen"
+    },
+    {
+        "id": "Os",
+        "latitude": 60.2040195,
+        "longitude": 5.4536439,
+        "name": "SP-Os",
+        "city": "Os"
+    },
+    {
+        "id": "R\u00f8ros",
+        "latitude": 62.566356,
+        "longitude": 11.3752997,
+        "name": "SP-R\u00f8ros",
+        "city": "R\u00f8ros"
+    },
+    {
+        "id": "Vestfossen",
+        "latitude": 59.7333903,
+        "longitude": 9.8681407,
+        "name": "SP-Vestfossen",
+        "city": "Vestfossen"
+    },
+    {
+        "id": "\u00c5gotnes",
+        "latitude": 60.4036511,
+        "longitude": 5.0186262,
+        "name": "SP-\u00c5gotnes",
+        "city": "\u00c5gotnes"
+    },
+    {
+        "id": "\u00c5l",
+        "latitude": 60.6288257,
+        "longitude": 8.5613347,
+        "name": "SP-\u00c5l",
+        "city": "\u00c5l"
+    },
+    {
+        "id": "Froland",
+        "latitude": 58.5074505,
+        "longitude": 8.6487552,
+        "name": "SP-Froland",
+        "city": "Froland"
+    },
+    {
+        "id": "F\u00f8rde",
+        "latitude": 61.4575768,
+        "longitude": 5.8492171,
+        "name": "SP-F\u00f8rde",
+        "city": "F\u00f8rde"
+    },
+    {
+        "id": "Geilo",
+        "latitude": 60.5344766,
+        "longitude": 8.2065401,
+        "name": "SP-Geilo",
+        "city": "Geilo"
+    },
+    {
+        "id": "Nordfjordeid",
+        "latitude": 61.9121148,
+        "longitude": 5.9803825,
+        "name": "SP-Nordfjordeid",
+        "city": "Nordfjordeid"
+    },
+    {
+        "id": "Nyborg",
+        "latitude": 60.4673203,
+        "longitude": 5.3461506,
+        "name": "SP-Nyborg",
+        "city": "Nyborg"
+    },
+    {
+        "id": "Sandane",
+        "latitude": 61.7696008,
+        "longitude": 6.2328778,
+        "name": "SP-Sandane",
+        "city": "Sandane"
+    },
+    {
+        "id": "Skatval",
+        "latitude": 63.5089616,
+        "longitude": 10.8252448,
+        "name": "SP-Skatval",
+        "city": "Skatval"
+    },
+    {
+        "id": "Vennesla",
+        "latitude": 58.2534074,
+        "longitude": 7.9677656,
+        "name": "SP-Vennesla",
+        "city": "Vennesla"
+    },
+    {
+        "id": "\u00c5sen",
+        "latitude": 63.6105296,
+        "longitude": 11.0508142,
+        "name": "SP-\u00c5sen",
+        "city": "\u00c5sen"
+    },
+    {
+        "id": "Follebu",
+        "latitude": 61.2160858,
+        "longitude": 10.2852929,
+        "name": "SP-Follebu",
+        "city": "Follebu"
+    },
+    {
+        "id": "Frei",
+        "latitude": 63.0907972,
+        "longitude": 7.8090537,
+        "name": "SP-Frei",
+        "city": "Frei"
+    },
+    {
+        "id": "Hell",
+        "latitude": 63.4449807,
+        "longitude": 10.9131734,
+        "name": "SP-Hell",
+        "city": "Hell"
+    },
+    {
+        "id": "Kv\u00e5l",
+        "latitude": 63.2312912,
+        "longitude": 10.2809743,
+        "name": "SP-Kv\u00e5l",
+        "city": "Kv\u00e5l"
+    },
+    {
+        "id": "L\u00f8ken",
+        "latitude": 59.7950681,
+        "longitude": 11.4643289,
+        "name": "SP-L\u00f8ken",
+        "city": "L\u00f8ken"
+    },
+    {
+        "id": "L\u00f8ten",
+        "latitude": 60.8204466,
+        "longitude": 11.3443662,
+        "name": "SP-L\u00f8ten",
+        "city": "L\u00f8ten"
+    },
+    {
+        "id": "Skreia",
+        "latitude": 60.6507,
+        "longitude": 10.9392,
+        "name": "SP-Skreia",
+        "city": "Skreia"
+    },
+    {
+        "id": "Sparbu",
+        "latitude": 63.9171715,
+        "longitude": 11.4336669,
+        "name": "SP-Sparbu",
+        "city": "Sparbu"
+    },
+    {
+        "id": "Lindesnes",
+        "latitude": 58.0828,
+        "longitude": 7.3034,
+        "name": "SP-Lindesnes",
+        "city": "Lindesnes"
+    },
+    {
+        "id": "Vollen",
+        "latitude": 59.8050052,
+        "longitude": 10.4823525,
+        "name": "SP-Vollen",
+        "city": "Vollen"
+    },
+    {
+        "id": "Blaker",
+        "latitude": 59.9774524,
+        "longitude": 11.3626494,
+        "name": "SP-Blaker",
+        "city": "Blaker"
+    },
+    {
+        "id": "Nes\u00f8ya",
+        "latitude": 59.8705836,
+        "longitude": 10.5165711,
+        "name": "SP-Nes\u00f8ya",
+        "city": "Nes\u00f8ya"
+    },
+    {
+        "id": "Skoppum",
+        "latitude": 59.3851536,
+        "longitude": 10.4048859,
+        "name": "SP-Skoppum",
+        "city": "Skoppum"
+    },
+    {
+        "id": "Ytre enebakk",
+        "latitude": 59.7234666,
+        "longitude": 11.0574102,
+        "name": "SP-Ytre enebakk",
+        "city": "Ytre enebakk"
+    },
+    {
+        "id": "\u00c5sg\u00e5rdstand",
+        "latitude": 59.3505206,
+        "longitude": 10.4428148,
+        "name": "SP-\u00c5sg\u00e5rdstand",
+        "city": "\u00c5sg\u00e5rdstand"
+    },
+    {
+        "id": "Hvalstad",
+        "latitude": 59.858539,
+        "longitude": 10.476895,
+        "name": "SP-Hvalstad",
+        "city": "Hvalstad"
+    },
+    {
+        "id": "Isdalst\u00f8",
+        "latitude": 60.546127,
+        "longitude": 5.288424,
+        "name": "SP-Isdalst\u00f8",
+        "city": "Isdalst\u00f8"
+    },
+    {
+        "id": "Nedenes",
+        "latitude": 58.41630644,
+        "longitude": 8.70112598,
+        "name": "SP-Nedenes",
+        "city": "Nedenes"
+    },
+    {
+        "id": "Straumsgrend",
+        "latitude": 60.3281095,
+        "longitude": 5.2674863,
+        "name": "SP-Straumsgrend",
+        "city": "Straumsgrend"
+    },
+    {
+        "id": "Tynset",
+        "latitude": 62.2745391,
+        "longitude": 10.7758244,
+        "name": "SP-Tynset",
+        "city": "Tynset"
+    },
+    {
+        "id": "Grimstad",
+        "latitude": 58.34689983,
+        "longitude": 8.59725118,
+        "name": "SP-Grimstad",
+        "city": "Grimstad"
+    },
+    {
+        "id": "Kodal",
+        "latitude": 59.2149082,
+        "longitude": 10.1369967,
+        "name": "SP-Kodal",
+        "city": "Kodal"
+    },
+    {
+        "id": "Kristiansand",
+        "latitude": 58.10360935,
+        "longitude": 7.95034072,
+        "name": "SP-Kristiansand",
+        "city": "Kristiansand"
+    },
+    {
+        "id": "Lillesand",
+        "latitude": 58.24207981,
+        "longitude": 8.36342449,
+        "name": "SP-Lillesand",
+        "city": "Lillesand"
+    },
+    {
+        "id": "Nykirke",
+        "latitude": 59.4247594,
+        "longitude": 10.3821926,
+        "name": "SP-Nykirke",
+        "city": "Nykirke"
+    },
+    {
+        "id": "Stange",
+        "latitude": 60.7204328,
+        "longitude": 11.1953265,
+        "name": "SP-Stange",
+        "city": "Stange"
+    },
+    {
+        "id": "Ulefoss",
+        "latitude": 59.280807,
+        "longitude": 9.268492,
+        "name": "SP-Ulefoss",
+        "city": "Ulefoss"
+    },
+    {
+        "id": "Bjorbekk",
+        "latitude": 58.4386,
+        "longitude": 8.7085,
+        "name": "SP-Bjorbekk",
+        "city": "Bjorbekk"
+    },
+    {
+        "id": "Haugesund",
+        "latitude": 59.40603687,
+        "longitude": 5.28805942,
+        "name": "SP-Haugesund",
+        "city": "Haugesund"
+    },
+    {
+        "id": "Helgeroa",
+        "latitude": 58.98859925,
+        "longitude": 9.87261647,
+        "name": "SP-Helgeroa",
+        "city": "Helgeroa"
+    },
+    {
+        "id": "Husnes",
+        "latitude": 59.862961,
+        "longitude": 5.7604804,
+        "name": "SP-Husnes",
+        "city": "Husnes"
+    },
+    {
+        "id": "Klokkarstua",
+        "latitude": 59.6142352,
+        "longitude": 10.458135,
+        "name": "SP-Klokkarstua",
+        "city": "Klokkarstua"
+    },
+    {
+        "id": "Kopervik",
+        "latitude": 59.2782693,
+        "longitude": 5.3119613,
+        "name": "SP-Kopervik",
+        "city": "Kopervik"
+    },
+    {
+        "id": "Slependen",
+        "latitude": 59.8801255,
+        "longitude": 10.4936253,
+        "name": "SP-Slependen",
+        "city": "Slependen"
+    },
+    {
+        "id": "Vormedal",
+        "latitude": 59.3550383,
+        "longitude": 5.3241071,
+        "name": "SP-Vormedal",
+        "city": "Vormedal"
+    },
+    {
+        "id": "Evje",
+        "latitude": 58.58701472,
+        "longitude": 7.80842387,
+        "name": "SP-Evje",
+        "city": "Evje"
+    },
+    {
+        "id": "Farsund",
+        "latitude": 58.0959,
+        "longitude": 6.7961,
+        "name": "SP-Farsund",
+        "city": "Farsund"
+    },
+    {
+        "id": "Hagan",
+        "latitude": 59.97979414,
+        "longitude": 10.93746528,
+        "name": "SP-Hagan",
+        "city": "Hagan"
+    },
+    {
+        "id": "Hemsedal",
+        "latitude": 60.84986942,
+        "longitude": 8.61525872,
+        "name": "SP-Hemsedal",
+        "city": "Hemsedal"
+    },
+    {
+        "id": "Reistad",
+        "latitude": 59.7901456,
+        "longitude": 10.2775942,
+        "name": "SP-Reistad",
+        "city": "Reistad"
+    },
+    {
+        "id": "\u00d8lensv\u00e5g",
+        "latitude": 59.5975159,
+        "longitude": 5.7434905,
+        "name": "SP-\u00d8lensv\u00e5g",
+        "city": "\u00d8lensv\u00e5g"
+    },
+    {
+        "id": "Birkeland",
+        "latitude": 58.3301883,
+        "longitude": 8.23300469,
+        "name": "SP-Birkeland",
+        "city": "Birkeland"
+    },
+    {
+        "id": "Melbu",
+        "latitude": 68.501264,
+        "longitude": 14.8145,
+        "name": "SP-Melbu",
+        "city": "Melbu"
+    },
+    {
+        "id": "Paradis",
+        "latitude": 60.3448698,
+        "longitude": 5.3642693,
+        "name": "SP-Paradis",
+        "city": "Paradis"
+    },
+    {
+        "id": "Rubbestadneset",
+        "latitude": 59.8153,
+        "longitude": 5.2687,
+        "name": "SP-Rubbestadneset",
+        "city": "Rubbestadneset"
+    },
+    {
+        "id": "Saltr\u00f8d",
+        "latitude": 58.49444308,
+        "longitude": 8.84861268,
+        "name": "SP-Saltr\u00f8d",
+        "city": "Saltr\u00f8d"
+    },
+    {
+        "id": "Sperrebotn",
+        "latitude": 59.4690347,
+        "longitude": 10.7849618,
+        "name": "SP-Sperrebotn",
+        "city": "Sperrebotn"
+    },
+    {
+        "id": "Stokmarknes",
+        "latitude": 68.570863,
+        "longitude": 14.946556,
+        "name": "SP-Stokmarknes",
+        "city": "Stokmarknes"
+    },
+    {
+        "id": "Bremnes",
+        "latitude": 59.79672812,
+        "longitude": 5.18653931,
+        "name": "SP-Bremnes",
+        "city": "Bremnes"
+    },
+    {
+        "id": "Fagernes",
+        "latitude": 60.9852681,
+        "longitude": 9.2414015,
+        "name": "SP-Fagernes",
+        "city": "Fagernes"
+    },
+    {
+        "id": "F\u00f8rresfjorden",
+        "latitude": 59.41901683,
+        "longitude": 5.40510696,
+        "name": "SP-F\u00f8rresfjorden",
+        "city": "F\u00f8rresfjorden"
+    },
+    {
+        "id": "Gressvik",
+        "latitude": 59.2094493,
+        "longitude": 10.8885239,
+        "name": "SP-Gressvik",
+        "city": "Gressvik"
+    },
+    {
+        "id": "Rjukan",
+        "latitude": 59.8806,
+        "longitude": 8.6378,
+        "name": "SP-Rjukan",
+        "city": "Rjukan"
+    },
+    {
+        "id": "Spillum",
+        "latitude": 64.4567498,
+        "longitude": 11.5319734,
+        "name": "SP-Spillum",
+        "city": "Spillum"
+    },
+    {
+        "id": "Trysil",
+        "latitude": 61.315164,
+        "longitude": 12.2557426,
+        "name": "SP-Trysil",
+        "city": "Trysil"
+    },
+    {
+        "id": "Yven",
+        "latitude": 59.274862,
+        "longitude": 11.0573171,
+        "name": "SP-Yven",
+        "city": "Yven"
+    },
+    {
+        "id": "Furnes",
+        "latitude": 60.8443069,
+        "longitude": 11.0447781,
+        "name": "SP-Furnes",
+        "city": "Furnes"
+    },
+    {
+        "id": "Kval\u00f8ysletta",
+        "latitude": 69.68991717,
+        "longitude": 18.85981471,
+        "name": "SP-Kval\u00f8ysletta",
+        "city": "Kval\u00f8ysletta"
+    },
+    {
+        "id": "Magnor",
+        "latitude": 59.9491423,
+        "longitude": 12.2044316,
+        "name": "SP-Magnor",
+        "city": "Magnor"
+    },
+    {
+        "id": "Reinsvoll",
+        "latitude": 60.68391,
+        "longitude": 10.621087,
+        "name": "SP-Reinsvoll",
+        "city": "Reinsvoll"
+    },
+    {
+        "id": "Ris\u00f8r",
+        "latitude": 58.7152,
+        "longitude": 9.1773,
+        "name": "SP-Ris\u00f8r",
+        "city": "Ris\u00f8r"
+    },
+    {
+        "id": "S\u00e6tre",
+        "latitude": 59.669583,
+        "longitude": 10.52455,
+        "name": "SP-S\u00e6tre",
+        "city": "S\u00e6tre"
+    },
+    {
+        "id": "\u00c5rnes",
+        "latitude": 60.1189768,
+        "longitude": 11.4644689,
+        "name": "SP-\u00c5rnes",
+        "city": "\u00c5rnes"
+    },
+    {
+        "id": "\u00d8vre \u00e5rdal",
+        "latitude": 61.3073685,
+        "longitude": 7.8109013,
+        "name": "SP-\u00d8vre \u00e5rdal",
+        "city": "\u00d8vre \u00e5rdal"
+    },
+    {
+        "id": "Saltstraumen",
+        "latitude": 67.2284,
+        "longitude": 14.6029,
+        "name": "SP-Saltstraumen",
+        "city": "Saltstraumen"
+    },
+    {
+        "id": "St\u00f8ren",
+        "latitude": 63.04775585,
+        "longitude": 10.28289674,
+        "name": "SP-St\u00f8ren",
+        "city": "St\u00f8ren"
+    },
+    {
+        "id": "Torvastad",
+        "latitude": 59.38917747,
+        "longitude": 5.27363934,
+        "name": "SP-Torvastad",
+        "city": "Torvastad"
+    },
+    {
+        "id": "Avaldsnes",
+        "latitude": 59.35572187,
+        "longitude": 5.27840549,
+        "name": "SP-Avaldsnes",
+        "city": "Avaldsnes"
+    },
+    {
+        "id": "Karmsund",
+        "latitude": 59.38668198,
+        "longitude": 5.31513872,
+        "name": "SP-Karmsund",
+        "city": "Karmsund"
+    },
+    {
+        "id": "Kolbotn",
+        "latitude": 59.794738,
+        "longitude": 10.804422,
+        "name": "SP-Kolbotn",
+        "city": "Kolbotn"
+    },
+    {
+        "id": "Lunner",
+        "latitude": 60.303241,
+        "longitude": 10.584225,
+        "name": "SP-Lunner",
+        "city": "Lunner"
+    },
+    {
+        "id": "Oppdal",
+        "latitude": 62.5928341,
+        "longitude": 9.685066,
+        "name": "SP-Oppdal",
+        "city": "Oppdal"
+    },
+    {
+        "id": "Sauda",
+        "latitude": 59.6492755,
+        "longitude": 6.35756331,
+        "name": "SP-Sauda",
+        "city": "Sauda"
+    },
+    {
+        "id": "Sunndals\u00f8ra",
+        "latitude": 62.67336834,
+        "longitude": 8.5681481,
+        "name": "SP-Sunndals\u00f8ra",
+        "city": "Sunndals\u00f8ra"
+    },
+    {
+        "id": "\u00c5krehamn",
+        "latitude": 59.26109894,
+        "longitude": 5.19389762,
+        "name": "SP-\u00c5krehamn",
+        "city": "\u00c5krehamn"
+    },
+    {
+        "id": "Alta",
+        "latitude": 69.9733,
+        "longitude": 23.3701,
+        "name": "SP-Alta",
+        "city": "Alta"
+    },
+    {
+        "id": "Brattholmen",
+        "latitude": 60.3556906,
+        "longitude": 5.1390964,
+        "name": "SP-Brattholmen",
+        "city": "Brattholmen"
+    },
+    {
+        "id": "Kl\u00e6bu",
+        "latitude": 63.3004737,
+        "longitude": 10.4837145,
+        "name": "SP-Kl\u00e6bu",
+        "city": "Kl\u00e6bu"
+    },
+    {
+        "id": "Saltnes",
+        "latitude": 59.2952413,
+        "longitude": 10.7622136,
+        "name": "SP-Saltnes",
+        "city": "Saltnes"
+    },
+    {
+        "id": "Slemmestad",
+        "latitude": 59.77669,
+        "longitude": 10.485392,
+        "name": "SP-Slemmestad",
+        "city": "Slemmestad"
+    },
+    {
+        "id": "Tomter",
+        "latitude": 59.659585,
+        "longitude": 11.000978,
+        "name": "SP-Tomter",
+        "city": "Tomter"
+    },
+    {
+        "id": "Andebu",
+        "latitude": 59.30552732,
+        "longitude": 10.1772138,
+        "name": "SP-Andebu",
+        "city": "Andebu"
+    },
+    {
+        "id": "Lye",
+        "latitude": 58.7324934,
+        "longitude": 5.7348378,
+        "name": "SP-Lye",
+        "city": "Lye"
+    },
+    {
+        "id": "Stol",
+        "latitude": 59.22114709,
+        "longitude": 5.19284904,
+        "name": "SP-Stol",
+        "city": "Stol"
+    },
+    {
+        "id": "Ask",
+        "latitude": 60.0706306,
+        "longitude": 11.0366576,
+        "name": "SP-Ask",
+        "city": "Ask"
+    },
+    {
+        "id": "Aver\u00f8y",
+        "latitude": 63.0521967,
+        "longitude": 7.63243709,
+        "name": "SP-Aver\u00f8y",
+        "city": "Aver\u00f8y"
+    },
+    {
+        "id": "V\u00f8yenenga",
+        "latitude": 59.9083854,
+        "longitude": 10.4758126,
+        "name": "SP-V\u00f8yenenga",
+        "city": "V\u00f8yenenga"
+    },
+    {
+        "id": "Ilseng",
+        "latitude": 60.7745876,
+        "longitude": 11.2218026,
+        "name": "SP-Ilseng",
+        "city": "Ilseng"
+    },
+    {
+        "id": "Vanse",
+        "latitude": 58.09765921,
+        "longitude": 6.6924258,
+        "name": "SP-Vanse",
+        "city": "Vanse"
+    },
+    {
+        "id": "Korgen",
+        "latitude": 66.0805,
+        "longitude": 13.8254,
+        "name": "SP-Korgen",
+        "city": "Korgen"
+    },
+    {
+        "id": "Tvedestrand",
+        "latitude": 58.6270174,
+        "longitude": 8.92906154,
+        "name": "SP-Tvedestrand",
+        "city": "Tvedestrand"
+    },
+    {
+        "id": "B\u00f8 i telemark",
+        "latitude": 59.4110355,
+        "longitude": 9.0720707,
+        "name": "SP-B\u00f8 i telemark",
+        "city": "B\u00f8 i telemark"
+    },
+    {
+        "id": "Kvinesdal",
+        "latitude": 58.3175141,
+        "longitude": 6.9590795,
+        "name": "SP-Kvinesdal",
+        "city": "Kvinesdal"
+    },
+    {
+        "id": "Bardu",
+        "latitude": 68.86316925,
+        "longitude": 18.34872497,
+        "name": "SP-Bardu",
+        "city": "Bardu"
+    },
+    {
+        "id": "Brumunddal",
+        "latitude": 60.8930793,
+        "longitude": 10.9299608,
+        "name": "SP-Brumunddal",
+        "city": "Brumunddal"
+    },
+    {
+        "id": "Eina",
+        "latitude": 60.629926,
+        "longitude": 10.5982757,
+        "name": "SP-Eina",
+        "city": "Eina"
+    },
+    {
+        "id": "Grua",
+        "latitude": 60.2569266,
+        "longitude": 10.6604712,
+        "name": "SP-Grua",
+        "city": "Grua"
+    },
+    {
+        "id": "Knapstad",
+        "latitude": 59.620564,
+        "longitude": 11.029066,
+        "name": "SP-Knapstad",
+        "city": "Knapstad"
+    },
+    {
+        "id": "Brummunddal",
+        "latitude": 60.8825786,
+        "longitude": 10.9390965,
+        "name": "SP-Brummunddal",
+        "city": "Brummunddal"
+    },
+    {
+        "id": "Roa",
+        "latitude": 60.2874041,
+        "longitude": 10.6249713,
+        "name": "SP-Roa",
+        "city": "Roa"
+    },
+    {
+        "id": "Sagv\u00e5g",
+        "latitude": 59.7754,
+        "longitude": 5.3932,
+        "name": "SP-Sagv\u00e5g",
+        "city": "Sagv\u00e5g"
+    },
+    {
+        "id": "Skjold",
+        "latitude": 59.5008,
+        "longitude": 5.577956,
+        "name": "SP-Skjold",
+        "city": "Skjold"
+    },
+    {
+        "id": "Vinstra",
+        "latitude": 61.5958516,
+        "longitude": 9.7300112,
+        "name": "SP-Vinstra",
+        "city": "Vinstra"
+    },
+    {
+        "id": "\u00d8len",
+        "latitude": 59.6066,
+        "longitude": 5.8129,
+        "name": "SP-\u00d8len",
+        "city": "\u00d8len"
+    },
+    {
+        "id": "Krager\u00f8",
+        "latitude": 58.8701571,
+        "longitude": 9.3900392,
+        "name": "SP-Krager\u00f8",
+        "city": "Krager\u00f8"
+    },
+    {
+        "id": "Saksvik",
+        "latitude": 63.4365256,
+        "longitude": 10.5878333,
+        "name": "SP-Saksvik",
+        "city": "Saksvik"
+    },
+    {
+        "id": "Tistedal",
+        "latitude": 59.121918,
+        "longitude": 11.447763,
+        "name": "SP-Tistedal",
+        "city": "Tistedal"
+    },
+    {
+        "id": "Bjugn",
+        "latitude": 63.76467297,
+        "longitude": 9.81057904,
+        "name": "SP-Bjugn",
+        "city": "Bjugn"
+    },
+    {
+        "id": "Vads\u00f8",
+        "latitude": 70.08063539,
+        "longitude": 29.70607205,
+        "name": "SP-Vads\u00f8",
+        "city": "Vads\u00f8"
+    },
+    {
+        "id": "Voss",
+        "latitude": 60.6352648,
+        "longitude": 6.4397115,
+        "name": "SP-Voss",
+        "city": "Voss"
+    },
+    {
+        "id": "B\u00f8dalen",
+        "latitude": 59.7593749,
+        "longitude": 10.4603848,
+        "name": "SP-B\u00f8dalen",
+        "city": "B\u00f8dalen"
+    },
+    {
+        "id": "Hakadal",
+        "latitude": 60.1175796,
+        "longitude": 10.829277,
+        "name": "SP-Hakadal",
+        "city": "Hakadal"
+    },
+    {
+        "id": "Kyrks\u00e6ter\u00f8ra",
+        "latitude": 63.29357115,
+        "longitude": 9.08367422,
+        "name": "SP-Kyrks\u00e6ter\u00f8ra",
+        "city": "Kyrks\u00e6ter\u00f8ra"
+    },
+    {
+        "id": "Sykkylven",
+        "latitude": 62.39201612,
+        "longitude": 6.58250361,
+        "name": "SP-Sykkylven",
+        "city": "Sykkylven"
+    },
+    {
+        "id": "Vikersund",
+        "latitude": 59.9690626,
+        "longitude": 9.9982358,
+        "name": "SP-Vikersund",
+        "city": "Vikersund"
+    },
+    {
+        "id": "Domb\u00e5s",
+        "latitude": 62.0718148,
+        "longitude": 9.1235608,
+        "name": "SP-Domb\u00e5s",
+        "city": "Domb\u00e5s"
+    },
+    {
+        "id": "Maura",
+        "latitude": 60.2483948,
+        "longitude": 11.0229162,
+        "name": "SP-Maura",
+        "city": "Maura"
+    },
+    {
+        "id": "Nordkisa",
+        "latitude": 60.1857505,
+        "longitude": 11.2641635,
+        "name": "SP-Nordkisa",
+        "city": "Nordkisa"
+    },
+    {
+        "id": "Borhaug",
+        "latitude": 58.0997,
+        "longitude": 6.5846,
+        "name": "SP-Borhaug",
+        "city": "Borhaug"
+    },
+    {
+        "id": "Finstadjordet",
+        "latitude": 59.9142826,
+        "longitude": 10.9682434,
+        "name": "SP-Finstadjordet",
+        "city": "Finstadjordet"
+    },
+    {
+        "id": "Jevnaker",
+        "latitude": 60.2402465,
+        "longitude": 10.3803153,
+        "name": "SP-Jevnaker",
+        "city": "Jevnaker"
+    },
+    {
+        "id": "Veav\u00e5gen",
+        "latitude": 59.29306049,
+        "longitude": 5.2262754,
+        "name": "SP-Veav\u00e5gen",
+        "city": "Veav\u00e5gen"
+    },
+    {
+        "id": "Auli",
+        "latitude": 60.0342868,
+        "longitude": 11.3512402,
+        "name": "SP-Auli",
+        "city": "Auli"
+    },
+    {
+        "id": "Nannestad",
+        "latitude": 60.2231811,
+        "longitude": 11.0246256,
+        "name": "SP-Nannestad",
+        "city": "Nannestad"
+    },
+    {
+        "id": "Nevlunghavn",
+        "latitude": 58.9720203,
+        "longitude": 9.8630847,
+        "name": "SP-Nevlunghavn",
+        "city": "Nevlunghavn"
+    },
+    {
+        "id": "Rasta",
+        "latitude": 59.9238334,
+        "longitude": 10.9366736,
+        "name": "SP-Rasta",
+        "city": "Rasta"
+    },
+    {
+        "id": "Stord",
+        "latitude": 59.76239499,
+        "longitude": 5.44953219,
+        "name": "SP-Stord",
+        "city": "Stord"
+    },
+    {
+        "id": "Vettre",
+        "latitude": 59.828516,
+        "longitude": 10.472767,
+        "name": "SP-Vettre",
+        "city": "Vettre"
+    },
+    {
+        "id": "\u00d8rskog",
+        "latitude": 62.48280392,
+        "longitude": 6.81254443,
+        "name": "SP-\u00d8rskog",
+        "city": "\u00d8rskog"
+    },
+    {
+        "id": "Geithus",
+        "latitude": 59.914499,
+        "longitude": 9.956336,
+        "name": "SP-Geithus",
+        "city": "Geithus"
+    },
+    {
+        "id": "Skiptvet",
+        "latitude": 59.471766,
+        "longitude": 11.163467,
+        "name": "SP-Skiptvet",
+        "city": "Skiptvet"
+    },
+    {
+        "id": "Svelvik",
+        "latitude": 59.6173,
+        "longitude": 10.4088,
+        "name": "SP-Svelvik",
+        "city": "Svelvik"
+    },
+    {
+        "id": "Tr\u00f8gstad",
+        "latitude": 59.6407,
+        "longitude": 11.316527,
+        "name": "SP-Tr\u00f8gstad",
+        "city": "Tr\u00f8gstad"
+    },
+    {
+        "id": "\u00c5lg\u00e5rd",
+        "latitude": 58.7803771,
+        "longitude": 5.836951,
+        "name": "SP-\u00c5lg\u00e5rd",
+        "city": "\u00c5lg\u00e5rd"
+    },
+    {
+        "id": "\u00c5sg\u00e5rdstrand",
+        "latitude": 59.3498221,
+        "longitude": 10.4598699,
+        "name": "SP-\u00c5sg\u00e5rdstrand",
+        "city": "\u00c5sg\u00e5rdstrand"
+    },
+    {
+        "id": "Aksdal",
+        "latitude": 59.4246,
+        "longitude": 5.4753,
+        "name": "SP-Aksdal",
+        "city": "Aksdal"
+    },
+    {
+        "id": "Figgjo",
+        "latitude": 58.7855573,
+        "longitude": 5.8151285,
+        "name": "SP-Figgjo",
+        "city": "Figgjo"
+    },
+    {
+        "id": "Kristiansund",
+        "latitude": 63.10946337,
+        "longitude": 7.78550201,
+        "name": "SP-Kristiansund",
+        "city": "Kristiansund"
+    },
+    {
+        "id": "Straume",
+        "latitude": 60.35449016,
+        "longitude": 5.12607326,
+        "name": "SP-Straume",
+        "city": "Straume"
+    },
+    {
+        "id": "Sunde i sunnhordaland",
+        "latitude": 59.83598519,
+        "longitude": 5.7084284,
+        "name": "SP-Sunde i sunnhordaland",
+        "city": "Sunde i sunnhordaland"
+    },
+    {
+        "id": "S\u00f8gne",
+        "latitude": 58.0773,
+        "longitude": 7.8095,
+        "name": "SP-S\u00f8gne",
+        "city": "S\u00f8gne"
+    },
+    {
+        "id": "Vatne",
+        "latitude": 62.55950556,
+        "longitude": 6.61725286,
+        "name": "SP-Vatne",
+        "city": "Vatne"
+    },
+    {
+        "id": "Fevik",
+        "latitude": 58.3732,
+        "longitude": 8.6725,
+        "name": "SP-Fevik",
+        "city": "Fevik"
+    },
+    {
+        "id": "Halsn\u00f8y kloster",
+        "latitude": 59.79074922,
+        "longitude": 5.68074023,
+        "name": "SP-Halsn\u00f8y kloster",
+        "city": "Halsn\u00f8y kloster"
+    },
+    {
+        "id": "Homborsund",
+        "latitude": 58.2679,
+        "longitude": 8.511,
+        "name": "SP-Homborsund",
+        "city": "Homborsund"
+    },
+    {
+        "id": "Skogn",
+        "latitude": 63.70517064,
+        "longitude": 11.1911791,
+        "name": "SP-Skogn",
+        "city": "Skogn"
+    },
+    {
+        "id": "Tomasjord",
+        "latitude": 69.672964,
+        "longitude": 19.044926,
+        "name": "SP-Tomasjord",
+        "city": "Tomasjord"
+    },
+    {
+        "id": "Bj\u00f8rnevatn",
+        "latitude": 69.67400891,
+        "longitude": 29.96181073,
+        "name": "SP-Bj\u00f8rnevatn",
+        "city": "Bj\u00f8rnevatn"
+    },
+    {
+        "id": "Kirkenes",
+        "latitude": 69.72085195,
+        "longitude": 30.03842124,
+        "name": "SP-Kirkenes",
+        "city": "Kirkenes"
+    },
+    {
+        "id": "Torpo",
+        "latitude": 60.6647006,
+        "longitude": 8.71191781,
+        "name": "SP-Torpo",
+        "city": "Torpo"
+    },
+    {
+        "id": "\u00d8vreb\u00f8",
+        "latitude": 58.26268515,
+        "longitude": 7.83108936,
+        "name": "SP-\u00d8vreb\u00f8",
+        "city": "\u00d8vreb\u00f8"
+    },
+    {
+        "id": "Skallestad",
+        "latitude": 59.205189,
+        "longitude": 10.441254,
+        "name": "SP-Skallestad",
+        "city": "Skallestad"
+    },
+    {
+        "id": "B\u00e5tsfjord",
+        "latitude": 70.63109606,
+        "longitude": 29.71285949,
+        "name": "SP-B\u00e5tsfjord",
+        "city": "B\u00e5tsfjord"
+    },
+    {
+        "id": "Eleverum",
+        "latitude": 60.90613028,
+        "longitude": 11.55023259,
+        "name": "SP-Eleverum",
+        "city": "Eleverum"
+    },
+    {
+        "id": "Mosby",
+        "latitude": 58.2157,
+        "longitude": 7.9229,
+        "name": "SP-Mosby",
+        "city": "Mosby"
+    },
+    {
+        "id": "Roverud",
+        "latitude": 60.25260663,
+        "longitude": 12.05881417,
+        "name": "SP-Roverud",
+        "city": "Roverud"
+    },
+    {
+        "id": "Skudeneshavn",
+        "latitude": 59.15023247,
+        "longitude": 5.25780827,
+        "name": "SP-Skudeneshavn",
+        "city": "Skudeneshavn"
+    },
+    {
+        "id": "Bjoneroa",
+        "latitude": 60.52378037,
+        "longitude": 10.28506647,
+        "name": "SP-Bjoneroa",
+        "city": "Bjoneroa"
+    },
+    {
+        "id": "B\u00f8nes",
+        "latitude": 60.328,
+        "longitude": 5.2933,
+        "name": "SP-B\u00f8nes",
+        "city": "B\u00f8nes"
+    },
+    {
+        "id": "Etne",
+        "latitude": 59.66330848,
+        "longitude": 5.94219377,
+        "name": "SP-Etne",
+        "city": "Etne"
+    },
+    {
+        "id": "F\u00e6rvik",
+        "latitude": 58.4635,
+        "longitude": 8.8213,
+        "name": "SP-F\u00e6rvik",
+        "city": "F\u00e6rvik"
+    },
+    {
+        "id": "Hammerfest",
+        "latitude": 70.6627396,
+        "longitude": 23.6853631,
+        "name": "SP-Hammerfest",
+        "city": "Hammerfest"
+    },
+    {
+        "id": "His",
+        "latitude": 58.4349,
+        "longitude": 8.7439,
+        "name": "SP-His",
+        "city": "His"
+    },
+    {
+        "id": "Hof",
+        "latitude": 59.529397,
+        "longitude": 10.088053,
+        "name": "SP-Hof",
+        "city": "Hof"
+    },
+    {
+        "id": "Rognan",
+        "latitude": 67.1012,
+        "longitude": 15.416,
+        "name": "SP-Rognan",
+        "city": "Rognan"
+    },
+    {
+        "id": "Rypefjord",
+        "latitude": 70.6523,
+        "longitude": 23.6637,
+        "name": "SP-Rypefjord",
+        "city": "Rypefjord"
+    },
+    {
+        "id": "Strusshamn",
+        "latitude": 60.40487943,
+        "longitude": 5.18473294,
+        "name": "SP-Strusshamn",
+        "city": "Strusshamn"
+    },
+    {
+        "id": "Tranby",
+        "latitude": 59.809094,
+        "longitude": 10.264792,
+        "name": "SP-Tranby",
+        "city": "Tranby"
+    },
+    {
+        "id": "\u00d8vre vats",
+        "latitude": 59.5302,
+        "longitude": 5.6881,
+        "name": "SP-\u00d8vre vats",
+        "city": "\u00d8vre vats"
+    },
+    {
+        "id": "Ballangen",
+        "latitude": 68.33569633,
+        "longitude": 16.81341422,
+        "name": "SP-Ballangen",
+        "city": "Ballangen"
+    },
+    {
+        "id": "Bjerkreim",
+        "latitude": 58.5834286,
+        "longitude": 6.0732845,
+        "name": "SP-Bjerkreim",
+        "city": "Bjerkreim"
+    },
+    {
+        "id": "Svinndal",
+        "latitude": 59.425053,
+        "longitude": 11.009778,
+        "name": "SP-Svinndal",
+        "city": "Svinndal"
+    },
+    {
+        "id": "V\u00e5ler i \u00f8stfold",
+        "latitude": 59.490162,
+        "longitude": 10.848851,
+        "name": "SP-V\u00e5ler i \u00f8stfold",
+        "city": "V\u00e5ler i \u00f8stfold"
+    },
+    {
+        "id": "Bruland",
+        "latitude": 61.4375853,
+        "longitude": 5.8976133,
+        "name": "SP-Bruland",
+        "city": "Bruland"
+    },
+    {
+        "id": "Fannrem",
+        "latitude": 63.26826714,
+        "longitude": 9.81791387,
+        "name": "SP-Fannrem",
+        "city": "Fannrem"
+    },
+    {
+        "id": "Flekker\u00f8y",
+        "latitude": 58.0762,
+        "longitude": 7.999,
+        "name": "SP-Flekker\u00f8y",
+        "city": "Flekker\u00f8y"
+    },
+    {
+        "id": "Flisa",
+        "latitude": 60.60322334,
+        "longitude": 12.01859591,
+        "name": "SP-Flisa",
+        "city": "Flisa"
+    },
+    {
+        "id": "Hornnes",
+        "latitude": 58.5626,
+        "longitude": 7.7719,
+        "name": "SP-Hornnes",
+        "city": "Hornnes"
+    },
+    {
+        "id": "Manger",
+        "latitude": 60.6384897,
+        "longitude": 5.0355243,
+        "name": "SP-Manger",
+        "city": "Manger"
+    },
+    {
+        "id": "Silsand",
+        "latitude": 69.242499,
+        "longitude": 17.949496,
+        "name": "SP-Silsand",
+        "city": "Silsand"
+    },
+    {
+        "id": "Sistranda",
+        "latitude": 63.72885906,
+        "longitude": 8.82823638,
+        "name": "SP-Sistranda",
+        "city": "Sistranda"
+    },
+    {
+        "id": "Skarnes",
+        "latitude": 60.25326508,
+        "longitude": 11.6781171,
+        "name": "SP-Skarnes",
+        "city": "Skarnes"
+    },
+    {
+        "id": "Surnadal",
+        "latitude": 62.96932059,
+        "longitude": 8.71103401,
+        "name": "SP-Surnadal",
+        "city": "Surnadal"
+    },
+    {
+        "id": "Bark\u00e5ker",
+        "latitude": 59.31879087,
+        "longitude": 10.38871608,
+        "name": "SP-Bark\u00e5ker",
+        "city": "Bark\u00e5ker"
+    },
+    {
+        "id": "Fjerdingby",
+        "latitude": 59.933444,
+        "longitude": 11.063116,
+        "name": "SP-Fjerdingby",
+        "city": "Fjerdingby"
+    },
+    {
+        "id": "Flor\u00f8",
+        "latitude": 61.5953,
+        "longitude": 5.014,
+        "name": "SP-Flor\u00f8",
+        "city": "Flor\u00f8"
+    },
+    {
+        "id": "Gjerdrum",
+        "latitude": 60.087135,
+        "longitude": 10.997349,
+        "name": "SP-Gjerdrum",
+        "city": "Gjerdrum"
+    },
+    {
+        "id": "Hallingby",
+        "latitude": 60.272251,
+        "longitude": 10.184298,
+        "name": "SP-Hallingby",
+        "city": "Hallingby"
+    },
+    {
+        "id": "Kirken\u00e6r",
+        "latitude": 60.45148596,
+        "longitude": 12.0549784,
+        "name": "SP-Kirken\u00e6r",
+        "city": "Kirken\u00e6r"
+    },
+    {
+        "id": "Selbu",
+        "latitude": 63.22235792,
+        "longitude": 11.03492279,
+        "name": "SP-Selbu",
+        "city": "Selbu"
+    },
+    {
+        "id": "Skaun",
+        "latitude": 63.25118301,
+        "longitude": 10.05351893,
+        "name": "SP-Skaun",
+        "city": "Skaun"
+    },
+    {
+        "id": "B\u00f8rsa",
+        "latitude": 63.32325768,
+        "longitude": 10.06481877,
+        "name": "SP-B\u00f8rsa",
+        "city": "B\u00f8rsa"
+    },
+    {
+        "id": "Otta",
+        "latitude": 61.77218917,
+        "longitude": 9.53466639,
+        "name": "SP-Otta",
+        "city": "Otta"
+    },
+    {
+        "id": "Skotterud",
+        "latitude": 59.978181,
+        "longitude": 12.14571,
+        "name": "SP-Skotterud",
+        "city": "Skotterud"
+    },
+    {
+        "id": "Hj\u00f8rungav\u00e5g",
+        "latitude": 62.34725478,
+        "longitude": 6.06250291,
+        "name": "SP-Hj\u00f8rungav\u00e5g",
+        "city": "Hj\u00f8rungav\u00e5g"
+    },
+    {
+        "id": "Indre arna",
+        "latitude": 60.4283,
+        "longitude": 5.4696,
+        "name": "SP-Indre arna",
+        "city": "Indre arna"
+    },
+    {
+        "id": "Lundamo",
+        "latitude": 63.15214578,
+        "longitude": 10.28200388,
+        "name": "SP-Lundamo",
+        "city": "Lundamo"
+    },
+    {
+        "id": "Langfjordbotn",
+        "latitude": 70.025268,
+        "longitude": 22.284576,
+        "name": "SP-Langfjordbotn",
+        "city": "Langfjordbotn"
+    },
+    {
+        "id": "Hurdal",
+        "latitude": 60.407493,
+        "longitude": 11.048924,
+        "name": "SP-Hurdal",
+        "city": "Hurdal"
+    },
+    {
+        "id": "Sl\u00e5stad",
+        "latitude": 60.283715,
+        "longitude": 11.771458,
+        "name": "SP-Sl\u00e5stad",
+        "city": "Sl\u00e5stad"
+    },
+    {
+        "id": "Kapp",
+        "latitude": 60.713566,
+        "longitude": 10.85518,
+        "name": "SP-Kapp",
+        "city": "Kapp"
+    },
+    {
+        "id": "Eidsv\u00e5g",
+        "latitude": 60.4363447,
+        "longitude": 5.3189851,
+        "name": "SP-Eidsv\u00e5g",
+        "city": "Eidsv\u00e5g"
+    },
+    {
+        "id": "Helle",
+        "latitude": 58.900705,
+        "longitude": 9.364174,
+        "name": "SP-Helle",
+        "city": "Helle"
+    },
+    {
+        "id": "Hommers\u00e5k",
+        "latitude": 58.927788,
+        "longitude": 5.85592727,
+        "name": "SP-Hommers\u00e5k",
+        "city": "Hommers\u00e5k"
+    },
+    {
+        "id": "Lunde",
+        "latitude": 59.294064,
+        "longitude": 9.108818,
+        "name": "SP-Lunde",
+        "city": "Lunde"
+    },
+    {
+        "id": "Norheimsund",
+        "latitude": 60.37073679,
+        "longitude": 6.15691788,
+        "name": "SP-Norheimsund",
+        "city": "Norheimsund"
+    },
+    {
+        "id": "Storeb\u00f8",
+        "latitude": 60.099146,
+        "longitude": 5.22547,
+        "name": "SP-Storeb\u00f8",
+        "city": "Storeb\u00f8"
+    },
+    {
+        "id": "Torp",
+        "latitude": 59.26101,
+        "longitude": 11.100408,
+        "name": "SP-Torp",
+        "city": "Torp"
+    },
+    {
+        "id": "Vikes\u00e5",
+        "latitude": 58.6361,
+        "longitude": 6.0836,
+        "name": "SP-Vikes\u00e5",
+        "city": "Vikes\u00e5"
+    },
+    {
+        "id": "Brandbu",
+        "latitude": 60.42155555,
+        "longitude": 10.50510069,
+        "name": "SP-Brandbu",
+        "city": "Brandbu"
+    },
+    {
+        "id": "Tveit",
+        "latitude": 58.2168,
+        "longitude": 8.1062,
+        "name": "SP-Tveit",
+        "city": "Tveit"
+    },
+    {
+        "id": "Sand",
+        "latitude": 59.48290633,
+        "longitude": 6.25758341,
+        "name": "SP-Sand",
+        "city": "Sand"
+    },
+    {
+        "id": "Koppang",
+        "latitude": 61.57022246,
+        "longitude": 11.04975539,
+        "name": "SP-Koppang",
+        "city": "Koppang"
+    },
+    {
+        "id": "Flateby",
+        "latitude": 59.8295494,
+        "longitude": 11.1527369,
+        "name": "SP-Flateby",
+        "city": "Flateby"
+    },
+    {
+        "id": "Rollag",
+        "latitude": 59.983785,
+        "longitude": 9.296423,
+        "name": "SP-Rollag",
+        "city": "Rollag"
+    },
+    {
+        "id": "Sellebakk",
+        "latitude": 59.230815,
+        "longitude": 11.002088,
+        "name": "SP-Sellebakk",
+        "city": "Sellebakk"
+    },
+    {
+        "id": "Odda",
+        "latitude": 60.0664192,
+        "longitude": 6.5470744,
+        "name": "SP-Odda",
+        "city": "Odda"
+    },
+    {
+        "id": "H\u00f8yanger",
+        "latitude": 61.224642,
+        "longitude": 6.0827739,
+        "name": "SP-H\u00f8yanger",
+        "city": "H\u00f8yanger"
+    },
+    {
+        "id": "Stryn",
+        "latitude": 61.9031999,
+        "longitude": 6.7200148,
+        "name": "SP-Stryn",
+        "city": "Stryn"
+    },
+    {
+        "id": "R\u00f8yse",
+        "latitude": 60.078095,
+        "longitude": 10.282628,
+        "name": "SP-R\u00f8yse",
+        "city": "R\u00f8yse"
+    },
+    {
+        "id": "Skjerstad",
+        "latitude": 67.2348859,
+        "longitude": 15.0144043,
+        "name": "SP-Skjerstad",
+        "city": "Skjerstad"
+    },
+    {
+        "id": "Finn\u00f8y",
+        "latitude": 59.17234134,
+        "longitude": 5.87678788,
+        "name": "SP-Finn\u00f8y",
+        "city": "Finn\u00f8y"
+    },
+    {
+        "id": "Hagavik",
+        "latitude": 60.18512468,
+        "longitude": 5.40827085,
+        "name": "SP-Hagavik",
+        "city": "Hagavik"
+    },
+    {
+        "id": "Nodeland",
+        "latitude": 58.15559877,
+        "longitude": 7.83640997,
+        "name": "SP-Nodeland",
+        "city": "Nodeland"
+    },
+    {
+        "id": "Brenn\u00e5sen",
+        "latitude": 58.135,
+        "longitude": 7.8559,
+        "name": "SP-Brenn\u00e5sen",
+        "city": "Brenn\u00e5sen"
+    },
+    {
+        "id": "Fitjar",
+        "latitude": 59.9178,
+        "longitude": 5.3159,
+        "name": "SP-Fitjar",
+        "city": "Fitjar"
+    },
+    {
+        "id": "Tj\u00f8me",
+        "latitude": 59.12155785,
+        "longitude": 10.39913253,
+        "name": "SP-Tj\u00f8me",
+        "city": "Tj\u00f8me"
+    },
+    {
+        "id": "Heggedal",
+        "latitude": 59.78568011,
+        "longitude": 10.42927852,
+        "name": "SP-Heggedal",
+        "city": "Heggedal"
+    },
+    {
+        "id": "Hegra",
+        "latitude": 63.46321462,
+        "longitude": 11.11346217,
+        "name": "SP-Hegra",
+        "city": "Hegra"
+    },
+    {
+        "id": "Mogreina",
+        "latitude": 60.231775,
+        "longitude": 11.169505,
+        "name": "SP-Mogreina",
+        "city": "Mogreina"
+    },
+    {
+        "id": "\u00c5fjord",
+        "latitude": 63.96043972,
+        "longitude": 10.22426853,
+        "name": "SP-\u00c5fjord",
+        "city": "\u00c5fjord"
+    },
+    {
+        "id": "Hauge i dalane",
+        "latitude": 58.3421,
+        "longitude": 6.291,
+        "name": "SP-Hauge i dalane",
+        "city": "Hauge i dalane"
+    },
+    {
+        "id": "Hitra",
+        "latitude": 63.60020116,
+        "longitude": 8.97580145,
+        "name": "SP-Hitra",
+        "city": "Hitra"
+    },
+    {
+        "id": "Hov",
+        "latitude": 60.696279,
+        "longitude": 10.352991,
+        "name": "SP-Hov",
+        "city": "Hov"
+    },
+    {
+        "id": "Kolbu",
+        "latitude": 60.6494018,
+        "longitude": 10.7419378,
+        "name": "SP-Kolbu",
+        "city": "Kolbu"
+    },
+    {
+        "id": "Mer\u00e5ker",
+        "latitude": 63.41307152,
+        "longitude": 11.7394014,
+        "name": "SP-Mer\u00e5ker",
+        "city": "Mer\u00e5ker"
+    },
+    {
+        "id": "Rissa",
+        "latitude": 63.584687,
+        "longitude": 9.957888,
+        "name": "SP-Rissa",
+        "city": "Rissa"
+    },
+    {
+        "id": "Rong",
+        "latitude": 60.51337316,
+        "longitude": 4.90979079,
+        "name": "SP-Rong",
+        "city": "Rong"
+    },
+    {
+        "id": "Svene",
+        "latitude": 59.79299121,
+        "longitude": 9.5791406,
+        "name": "SP-Svene",
+        "city": "Svene"
+    },
+    {
+        "id": "Tennfjord",
+        "latitude": 62.5449577,
+        "longitude": 6.5904873,
+        "name": "SP-Tennfjord",
+        "city": "Tennfjord"
+    },
+    {
+        "id": "Vestsida",
+        "latitude": 60.642261,
+        "longitude": 10.334111,
+        "name": "SP-Vestsida",
+        "city": "Vestsida"
+    },
+    {
+        "id": "Hvam",
+        "latitude": 60.125973,
+        "longitude": 11.341919,
+        "name": "SP-Hvam",
+        "city": "Hvam"
+    },
+    {
+        "id": "Tyssedal",
+        "latitude": 60.1162,
+        "longitude": 6.5598,
+        "name": "SP-Tyssedal",
+        "city": "Tyssedal"
+    },
+    {
+        "id": "Berger",
+        "latitude": 59.549418,
+        "longitude": 10.384385,
+        "name": "SP-Berger",
+        "city": "Berger"
+    },
+    {
+        "id": "Holmsbu",
+        "latitude": 59.560702,
+        "longitude": 10.427425,
+        "name": "SP-Holmsbu",
+        "city": "Holmsbu"
+    },
+    {
+        "id": "Stranda",
+        "latitude": 62.30916973,
+        "longitude": 6.94329715,
+        "name": "SP-Stranda",
+        "city": "Stranda"
+    },
+    {
+        "id": "Trofors",
+        "latitude": 65.53693859,
+        "longitude": 13.38652485,
+        "name": "SP-Trofors",
+        "city": "Trofors"
+    },
+    {
+        "id": "\u00d8rje",
+        "latitude": 59.4806788,
+        "longitude": 11.66138649,
+        "name": "SP-\u00d8rje",
+        "city": "\u00d8rje"
+    },
+    {
+        "id": "Aukra",
+        "latitude": 62.8054269,
+        "longitude": 6.8899902,
+        "name": "SP-Aukra",
+        "city": "Aukra"
+    },
+    {
+        "id": "Lena",
+        "latitude": 60.682324,
+        "longitude": 10.829521,
+        "name": "SP-Lena",
+        "city": "Lena"
+    },
+    {
+        "id": "Nesna",
+        "latitude": 66.19976,
+        "longitude": 13.023449,
+        "name": "SP-Nesna",
+        "city": "Nesna"
+    },
+    {
+        "id": "Nordre toten",
+        "latitude": 60.746738,
+        "longitude": 10.750224,
+        "name": "SP-Nordre toten",
+        "city": "Nordre toten"
+    },
+    {
+        "id": "Ringebu",
+        "latitude": 61.530534,
+        "longitude": 10.141514,
+        "name": "SP-Ringebu",
+        "city": "Ringebu"
+    },
+    {
+        "id": "\u00d8yer",
+        "latitude": 61.265195,
+        "longitude": 10.411267,
+        "name": "SP-\u00d8yer",
+        "city": "\u00d8yer"
+    },
+    {
+        "id": "Biri",
+        "latitude": 60.95523,
+        "longitude": 10.609647,
+        "name": "SP-Biri",
+        "city": "Biri"
+    },
+    {
+        "id": "Eydehavn",
+        "latitude": 58.5001,
+        "longitude": 8.8655,
+        "name": "SP-Eydehavn",
+        "city": "Eydehavn"
+    },
+    {
+        "id": "Moi",
+        "latitude": 58.46137124,
+        "longitude": 6.544787,
+        "name": "SP-Moi",
+        "city": "Moi"
+    },
+    {
+        "id": "Nybergsund",
+        "latitude": 61.2609417,
+        "longitude": 12.32241561,
+        "name": "SP-Nybergsund",
+        "city": "Nybergsund"
+    },
+    {
+        "id": "Tyristrand",
+        "latitude": 60.0864,
+        "longitude": 10.1001,
+        "name": "SP-Tyristrand",
+        "city": "Tyristrand"
+    },
+    {
+        "id": "Valestrandsfossen",
+        "latitude": 60.5055,
+        "longitude": 5.4307,
+        "name": "SP-Valestrandsfossen",
+        "city": "Valestrandsfossen"
+    },
+    {
+        "id": "Leksvik",
+        "latitude": 63.67331343,
+        "longitude": 10.62588865,
+        "name": "SP-Leksvik",
+        "city": "Leksvik"
+    },
+    {
+        "id": "Rauland",
+        "latitude": 59.695743,
+        "longitude": 8.066285,
+        "name": "SP-Rauland",
+        "city": "Rauland"
+    },
+    {
+        "id": "\u00d8rnes",
+        "latitude": 66.8696808,
+        "longitude": 13.705614,
+        "name": "SP-\u00d8rnes",
+        "city": "\u00d8rnes"
+    },
+    {
+        "id": "Drangedal",
+        "latitude": 59.097166,
+        "longitude": 9.057828,
+        "name": "SP-Drangedal",
+        "city": "Drangedal"
+    },
+    {
+        "id": "Rennebu",
+        "latitude": 62.82881709,
+        "longitude": 10.01122454,
+        "name": "SP-Rennebu",
+        "city": "Rennebu"
+    },
+    {
+        "id": "R\u00f8yken",
+        "latitude": 59.73965069,
+        "longitude": 10.4092338,
+        "name": "SP-R\u00f8yken",
+        "city": "R\u00f8yken"
+    },
+    {
+        "id": "Vassenden",
+        "latitude": 61.4882,
+        "longitude": 6.0832,
+        "name": "SP-Vassenden",
+        "city": "Vassenden"
+    },
+    {
+        "id": "B\u00f8verdalen",
+        "latitude": 61.7208,
+        "longitude": 8.3477,
+        "name": "SP-B\u00f8verdalen",
+        "city": "B\u00f8verdalen"
+    },
+    {
+        "id": "Heidal",
+        "latitude": 61.758885,
+        "longitude": 9.285125,
+        "name": "SP-Heidal",
+        "city": "Heidal"
+    },
+    {
+        "id": "Kalandseidet",
+        "latitude": 60.2861,
+        "longitude": 5.3915,
+        "name": "SP-Kalandseidet",
+        "city": "Kalandseidet"
+    },
+    {
+        "id": "Talvik",
+        "latitude": 70.0406194,
+        "longitude": 22.9524293,
+        "name": "SP-Talvik",
+        "city": "Talvik"
+    },
+    {
+        "id": "Uskedalen",
+        "latitude": 59.93160762,
+        "longitude": 5.85944099,
+        "name": "SP-Uskedalen",
+        "city": "Uskedalen"
+    },
+    {
+        "id": "Henningsv\u00e6r",
+        "latitude": 68.15618603,
+        "longitude": 14.20715977,
+        "name": "SP-Henningsv\u00e6r",
+        "city": "Henningsv\u00e6r"
+    },
+    {
+        "id": "Krokkleiva",
+        "latitude": 60.02968,
+        "longitude": 10.263031,
+        "name": "SP-Krokkleiva",
+        "city": "Krokkleiva"
+    },
+    {
+        "id": "Rosendal",
+        "latitude": 59.98612879,
+        "longitude": 6.00972399,
+        "name": "SP-Rosendal",
+        "city": "Rosendal"
+    },
+    {
+        "id": "Sannidal",
+        "latitude": 58.895926,
+        "longitude": 9.284114,
+        "name": "SP-Sannidal",
+        "city": "Sannidal"
+    },
+    {
+        "id": "Rud",
+        "latitude": 59.911608,
+        "longitude": 10.498028,
+        "name": "SP-Rud",
+        "city": "Rud"
+    },
+    {
+        "id": "Sagstua",
+        "latitude": 60.3928507,
+        "longitude": 11.54226715,
+        "name": "SP-Sagstua",
+        "city": "Sagstua"
+    },
+    {
+        "id": "Seljord",
+        "latitude": 59.48258623,
+        "longitude": 8.62464057,
+        "name": "SP-Seljord",
+        "city": "Seljord"
+    },
+    {
+        "id": "Tofte",
+        "latitude": 59.543354,
+        "longitude": 10.562388,
+        "name": "SP-Tofte",
+        "city": "Tofte"
+    },
+    {
+        "id": "Eidsnes",
+        "latitude": 62.42766233,
+        "longitude": 6.31602305,
+        "name": "SP-Eidsnes",
+        "city": "Eidsnes"
+    },
+    {
+        "id": "Kolvereid",
+        "latitude": 64.86442397,
+        "longitude": 11.60497128,
+        "name": "SP-Kolvereid",
+        "city": "Kolvereid"
+    },
+    {
+        "id": "\u00c5ros",
+        "latitude": 59.705259,
+        "longitude": 10.511296,
+        "name": "SP-\u00c5ros",
+        "city": "\u00c5ros"
+    },
+    {
+        "id": "Kjeller",
+        "latitude": 59.96358501,
+        "longitude": 11.06434949,
+        "name": "SP-Kjeller",
+        "city": "Kjeller"
+    },
+    {
+        "id": "Skjoldastraumen",
+        "latitude": 59.42880936,
+        "longitude": 5.62071568,
+        "name": "SP-Skjoldastraumen",
+        "city": "Skjoldastraumen"
+    },
+    {
+        "id": "V\u00e5g\u00e5",
+        "latitude": 61.8767,
+        "longitude": 9.096,
+        "name": "SP-V\u00e5g\u00e5",
+        "city": "V\u00e5g\u00e5"
+    },
+    {
+        "id": "Gursk\u00f8y",
+        "latitude": 62.27689283,
+        "longitude": 5.80291047,
+        "name": "SP-Gursk\u00f8y",
+        "city": "Gursk\u00f8y"
+    },
+    {
+        "id": "Kviteseid",
+        "latitude": 59.40211107,
+        "longitude": 8.48919782,
+        "name": "SP-Kviteseid",
+        "city": "Kviteseid"
+    },
+    {
+        "id": "Malm",
+        "latitude": 64.07542076,
+        "longitude": 11.2224805,
+        "name": "SP-Malm",
+        "city": "Malm"
+    },
+    {
+        "id": "Hylkje",
+        "latitude": 60.5091125,
+        "longitude": 5.34734676,
+        "name": "SP-Hylkje",
+        "city": "Hylkje"
+    },
+    {
+        "id": "Lyefjell",
+        "latitude": 58.731,
+        "longitude": 5.7297,
+        "name": "SP-Lyefjell",
+        "city": "Lyefjell"
+    },
+    {
+        "id": "Masfjordnes",
+        "latitude": 60.7996,
+        "longitude": 5.3003,
+        "name": "SP-Masfjordnes",
+        "city": "Masfjordnes"
+    },
+    {
+        "id": "S\u00f8rreisa",
+        "latitude": 69.14357115,
+        "longitude": 18.15711038,
+        "name": "SP-S\u00f8rreisa",
+        "city": "S\u00f8rreisa"
+    },
+    {
+        "id": "Tresfjord",
+        "latitude": 62.52250366,
+        "longitude": 7.12850308,
+        "name": "SP-Tresfjord",
+        "city": "Tresfjord"
+    },
+    {
+        "id": "\u00c5rland",
+        "latitude": 60.4013,
+        "longitude": 5.7315,
+        "name": "SP-\u00c5rland",
+        "city": "\u00c5rland"
+    },
+    {
+        "id": "Hjelmeland",
+        "latitude": 59.2333,
+        "longitude": 6.1668,
+        "name": "SP-Hjelmeland",
+        "city": "Hjelmeland"
+    },
+    {
+        "id": "Koppervik",
+        "latitude": 59.2807,
+        "longitude": 5.2875,
+        "name": "SP-Koppervik",
+        "city": "Koppervik"
+    },
+    {
+        "id": "Stamsund",
+        "latitude": 68.13020866,
+        "longitude": 13.8498945,
+        "name": "SP-Stamsund",
+        "city": "Stamsund"
+    },
+    {
+        "id": "Ballstad",
+        "latitude": 68.07117727,
+        "longitude": 13.53910537,
+        "name": "SP-Ballstad",
+        "city": "Ballstad"
+    },
+    {
+        "id": "Borkenes",
+        "latitude": 68.77172446,
+        "longitude": 16.17741775,
+        "name": "SP-Borkenes",
+        "city": "Borkenes"
+    },
+    {
+        "id": "Manstad",
+        "latitude": 59.26564055,
+        "longitude": 10.78999642,
+        "name": "SP-Manstad",
+        "city": "Manstad"
+    },
+    {
+        "id": "Grong",
+        "latitude": 64.46368364,
+        "longitude": 12.30611328,
+        "name": "SP-Grong",
+        "city": "Grong"
+    },
+    {
+        "id": "Gaupne",
+        "latitude": 61.40279458,
+        "longitude": 7.29702473,
+        "name": "SP-Gaupne",
+        "city": "Gaupne"
+    },
+    {
+        "id": "Leikanger",
+        "latitude": 61.18350172,
+        "longitude": 6.85083907,
+        "name": "SP-Leikanger",
+        "city": "Leikanger"
+    },
+    {
+        "id": "L\u00e6rdal",
+        "latitude": 61.09781556,
+        "longitude": 7.48212531,
+        "name": "SP-L\u00e6rdal",
+        "city": "L\u00e6rdal"
+    },
+    {
+        "id": "Vadheim",
+        "latitude": 61.20861968,
+        "longitude": 5.82182606,
+        "name": "SP-Vadheim",
+        "city": "Vadheim"
+    },
+    {
+        "id": "Folkestad",
+        "latitude": 62.12010449,
+        "longitude": 6.02649645,
+        "name": "SP-Folkestad",
+        "city": "Folkestad"
+    },
+    {
+        "id": "Mathopen",
+        "latitude": 60.3334,
+        "longitude": 5.2123,
+        "name": "SP-Mathopen",
+        "city": "Mathopen"
+    },
+    {
+        "id": "Atr\u00e5",
+        "latitude": 59.99177,
+        "longitude": 8.744249,
+        "name": "SP-Atr\u00e5",
+        "city": "Atr\u00e5"
+    },
+    {
+        "id": "L\u00f8venstad",
+        "latitude": 59.9373642,
+        "longitude": 11.02138887,
+        "name": "SP-L\u00f8venstad",
+        "city": "L\u00f8venstad"
+    },
+    {
+        "id": "Minnesund",
+        "latitude": 60.403364,
+        "longitude": 11.242291,
+        "name": "SP-Minnesund",
+        "city": "Minnesund"
+    },
+    {
+        "id": "Tana",
+        "latitude": 70.19870268,
+        "longitude": 28.18689095,
+        "name": "SP-Tana",
+        "city": "Tana"
+    },
+    {
+        "id": "\u00d8stre gausdal",
+        "latitude": 61.22646557,
+        "longitude": 10.22218243,
+        "name": "SP-\u00d8stre gausdal",
+        "city": "\u00d8stre gausdal"
+    },
+    {
+        "id": "Aure",
+        "latitude": 63.26773142,
+        "longitude": 8.52997447,
+        "name": "SP-Aure",
+        "city": "Aure"
+    },
+    {
+        "id": "Austrheim",
+        "latitude": 60.7653,
+        "longitude": 4.9157,
+        "name": "SP-Austrheim",
+        "city": "Austrheim"
+    },
+    {
+        "id": "Bleik",
+        "latitude": 69.27539565,
+        "longitude": 15.96553726,
+        "name": "SP-Bleik",
+        "city": "Bleik"
+    },
+    {
+        "id": "Eggedal",
+        "latitude": 60.24628403,
+        "longitude": 9.35601045,
+        "name": "SP-Eggedal",
+        "city": "Eggedal"
+    },
+    {
+        "id": "Frosta",
+        "latitude": 63.58835785,
+        "longitude": 10.73973633,
+        "name": "SP-Frosta",
+        "city": "Frosta"
+    },
+    {
+        "id": "Kvernaland",
+        "latitude": 58.7794039,
+        "longitude": 5.7219831,
+        "name": "SP-Kvernaland",
+        "city": "Kvernaland"
+    },
+    {
+        "id": "Malmefjorden",
+        "latitude": 62.81831585,
+        "longitude": 7.23848855,
+        "name": "SP-Malmefjorden",
+        "city": "Malmefjorden"
+    },
+    {
+        "id": "Sundbyfoss",
+        "latitude": 59.51285,
+        "longitude": 10.123248,
+        "name": "SP-Sundbyfoss",
+        "city": "Sundbyfoss"
+    },
+    {
+        "id": "\u00c5mot",
+        "latitude": 59.892512,
+        "longitude": 9.925247,
+        "name": "SP-\u00c5mot",
+        "city": "\u00c5mot"
+    },
+    {
+        "id": "Askje",
+        "latitude": 59.0605479,
+        "longitude": 5.6931244,
+        "name": "SP-Askje",
+        "city": "Askje"
+    },
+    {
+        "id": "Kongsvik",
+        "latitude": 68.56437836,
+        "longitude": 16.27614537,
+        "name": "SP-Kongsvik",
+        "city": "Kongsvik"
+    },
+    {
+        "id": "Lakselv",
+        "latitude": 70.05050017,
+        "longitude": 24.94951422,
+        "name": "SP-Lakselv",
+        "city": "Lakselv"
+    },
+    {
+        "id": "Midsund",
+        "latitude": 62.67372434,
+        "longitude": 6.67576758,
+        "name": "SP-Midsund",
+        "city": "Midsund"
+    },
+    {
+        "id": "M\u00e5l\u00f8y",
+        "latitude": 61.93576839,
+        "longitude": 5.11488578,
+        "name": "SP-M\u00e5l\u00f8y",
+        "city": "M\u00e5l\u00f8y"
+    },
+    {
+        "id": "Skjeberg",
+        "latitude": 59.20985437,
+        "longitude": 11.19025668,
+        "name": "SP-Skjeberg",
+        "city": "Skjeberg"
+    },
+    {
+        "id": "Hamarvik",
+        "latitude": 63.70497679,
+        "longitude": 8.81857581,
+        "name": "SP-Hamarvik",
+        "city": "Hamarvik"
+    },
+    {
+        "id": "Hus\u00f8ysund",
+        "latitude": 59.2364221,
+        "longitude": 10.45034856,
+        "name": "SP-Hus\u00f8ysund",
+        "city": "Hus\u00f8ysund"
+    },
+    {
+        "id": "Siljan",
+        "latitude": 59.283416,
+        "longitude": 9.73167,
+        "name": "SP-Siljan",
+        "city": "Siljan"
+    },
+    {
+        "id": "Kurland",
+        "latitude": 59.93324282,
+        "longitude": 11.02415924,
+        "name": "SP-Kurland",
+        "city": "Kurland"
+    },
+    {
+        "id": "Knarrevik",
+        "latitude": 60.3826,
+        "longitude": 5.1532,
+        "name": "SP-Knarrevik",
+        "city": "Knarrevik"
+    },
+    {
+        "id": "Sveio",
+        "latitude": 59.54335767,
+        "longitude": 5.35516441,
+        "name": "SP-Sveio",
+        "city": "Sveio"
+    },
+    {
+        "id": "Kongshavn",
+        "latitude": 58.4836,
+        "longitude": 8.865,
+        "name": "SP-Kongshavn",
+        "city": "Kongshavn"
+    },
+    {
+        "id": "Solbergelva",
+        "latitude": 59.76146676,
+        "longitude": 10.08925681,
+        "name": "SP-Solbergelva",
+        "city": "Solbergelva"
+    },
+    {
+        "id": "Solbergmoen",
+        "latitude": 59.761072,
+        "longitude": 10.057809,
+        "name": "SP-Solbergmoen",
+        "city": "Solbergmoen"
+    },
+    {
+        "id": "Tysse",
+        "latitude": 60.3863,
+        "longitude": 5.7668,
+        "name": "SP-Tysse",
+        "city": "Tysse"
+    },
+    {
+        "id": "Vinterbro",
+        "latitude": 59.737926,
+        "longitude": 10.764606,
+        "name": "SP-Vinterbro",
+        "city": "Vinterbro"
+    },
+    {
+        "id": "\u00d8ystese",
+        "latitude": 60.38714418,
+        "longitude": 6.20061403,
+        "name": "SP-\u00d8ystese",
+        "city": "\u00d8ystese"
+    },
+    {
+        "id": "Kj\u00f8pmannskj\u00e6r",
+        "latitude": 59.17703491,
+        "longitude": 10.38741333,
+        "name": "SP-Kj\u00f8pmannskj\u00e6r",
+        "city": "Kj\u00f8pmannskj\u00e6r"
+    },
+    {
+        "id": "Naustdal",
+        "latitude": 61.50821844,
+        "longitude": 5.71778106,
+        "name": "SP-Naustdal",
+        "city": "Naustdal"
+    },
+    {
+        "id": "R\u00f8yneberg",
+        "latitude": 58.91187348,
+        "longitude": 5.6664377,
+        "name": "SP-R\u00f8yneberg",
+        "city": "R\u00f8yneberg"
+    },
+    {
+        "id": "R\u00e6lingen",
+        "latitude": 59.946577,
+        "longitude": 11.031094,
+        "name": "SP-R\u00e6lingen",
+        "city": "R\u00e6lingen"
+    },
+    {
+        "id": "Duken",
+        "latitude": 59.22076177,
+        "longitude": 10.44214027,
+        "name": "SP-Duken",
+        "city": "Duken"
+    },
+    {
+        "id": "F\u00e5berg",
+        "latitude": 61.1535,
+        "longitude": 10.3913,
+        "name": "SP-F\u00e5berg",
+        "city": "F\u00e5berg"
+    },
+    {
+        "id": "N\u00e6rsnes",
+        "latitude": 59.759111,
+        "longitude": 10.507927,
+        "name": "SP-N\u00e6rsnes",
+        "city": "N\u00e6rsnes"
+    },
+    {
+        "id": "Hetlevik",
+        "latitude": 60.4273,
+        "longitude": 5.1468,
+        "name": "SP-Hetlevik",
+        "city": "Hetlevik"
+    },
+    {
+        "id": "Dverberg",
+        "latitude": 69.10670345,
+        "longitude": 15.96452439,
+        "name": "SP-Dverberg",
+        "city": "Dverberg"
+    },
+    {
+        "id": "Kabelv\u00e5g",
+        "latitude": 68.2101452,
+        "longitude": 14.47701927,
+        "name": "SP-Kabelv\u00e5g",
+        "city": "Kabelv\u00e5g"
+    },
+    {
+        "id": "Brattv\u00e5g",
+        "latitude": 62.6055,
+        "longitude": 6.4382,
+        "name": "SP-Brattv\u00e5g",
+        "city": "Brattv\u00e5g"
+    },
+    {
+        "id": "Stabbestad",
+        "latitude": 58.792368,
+        "longitude": 9.372801,
+        "name": "SP-Stabbestad",
+        "city": "Stabbestad"
+    },
+    {
+        "id": "Oppaker",
+        "latitude": 60.18682102,
+        "longitude": 11.54063843,
+        "name": "SP-Oppaker",
+        "city": "Oppaker"
+    },
+    {
+        "id": "Hesseng",
+        "latitude": 69.68795063,
+        "longitude": 29.98627806,
+        "name": "SP-Hesseng",
+        "city": "Hesseng"
+    },
+    {
+        "id": "Sli",
+        "latitude": 59.71973974,
+        "longitude": 10.80844722,
+        "name": "SP-Sli",
+        "city": "Sli"
+    },
+    {
+        "id": "Skjerv\u00f8y",
+        "latitude": 70.03075781,
+        "longitude": 20.97129024,
+        "name": "SP-Skjerv\u00f8y",
+        "city": "Skjerv\u00f8y"
+    },
+    {
+        "id": "Storslett",
+        "latitude": 69.7721,
+        "longitude": 21.0272,
+        "name": "SP-Storslett",
+        "city": "Storslett"
+    },
+    {
+        "id": "Vard\u00f8",
+        "latitude": 70.3741031,
+        "longitude": 31.1004146,
+        "name": "SP-Vard\u00f8",
+        "city": "Vard\u00f8"
+    },
+    {
+        "id": "Ingeberg",
+        "latitude": 60.827459,
+        "longitude": 11.126256,
+        "name": "SP-Ingeberg",
+        "city": "Ingeberg"
+    },
+    {
+        "id": "Haukeland",
+        "latitude": 60.37565631,
+        "longitude": 5.45710612,
+        "name": "SP-Haukeland",
+        "city": "Haukeland"
+    },
+    {
+        "id": "Spikkestad",
+        "latitude": 59.744798,
+        "longitude": 10.341228,
+        "name": "SP-Spikkestad",
+        "city": "Spikkestad"
+    },
+    {
+        "id": "S\u00f8r-fron",
+        "latitude": 61.57792837,
+        "longitude": 9.85894088,
+        "name": "SP-S\u00f8r-fron",
+        "city": "S\u00f8r-fron"
+    },
+    {
+        "id": "Lysekloster",
+        "latitude": 60.21239399,
+        "longitude": 5.38972915,
+        "name": "SP-Lysekloster",
+        "city": "Lysekloster"
+    },
+    {
+        "id": "Langangen",
+        "latitude": 59.088096,
+        "longitude": 9.819183,
+        "name": "SP-Langangen",
+        "city": "Langangen"
+    },
+    {
+        "id": "Romedal",
+        "latitude": 60.73669059,
+        "longitude": 11.29125494,
+        "name": "SP-Romedal",
+        "city": "Romedal"
+    },
+    {
+        "id": "Sk\u00e5la",
+        "latitude": 62.70206066,
+        "longitude": 7.42435805,
+        "name": "SP-Sk\u00e5la",
+        "city": "Sk\u00e5la"
+    },
+    {
+        "id": "Hellvik",
+        "latitude": 58.4811,
+        "longitude": 5.8727,
+        "name": "SP-Hellvik",
+        "city": "Hellvik"
+    },
+    {
+        "id": "Hob\u00f8l",
+        "latitude": 59.5585,
+        "longitude": 10.845,
+        "name": "SP-Hob\u00f8l",
+        "city": "Hob\u00f8l"
+    },
+    {
+        "id": "Hvittingfoss",
+        "latitude": 59.483561,
+        "longitude": 10.010015,
+        "name": "SP-Hvittingfoss",
+        "city": "Hvittingfoss"
+    }
+]
